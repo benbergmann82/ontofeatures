@@ -23,7 +23,7 @@ const Options = ({ hidden }) => {
                     <Option title="Heated Seats" callback={toggleOption} />
                     <Option title="Isofix" callback={toggleOption} />
                     <Option title="Driver Armrest" callback={toggleOption} />
-                    <Option title="Cruise Control" callback={toggleOption} />
+                    <Option title="Adaptive Cruise Control" callback={toggleOption} />
                     <Option title="Keyless Entry" callback={toggleOption} />
                     <Option title="Seat Height Adjustment Driver" callback={toggleOption} />
                     <Option title="Auto-dimming Rearview Mirror" callback={toggleOption} />

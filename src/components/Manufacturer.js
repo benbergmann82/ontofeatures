@@ -26,7 +26,7 @@ const Manufacturer = () => {
 
     return (
         <div className="shadow p-4 mb-6 rounded-lg bg-white">
-            <span className="block text-center font-bold uppercase text-sm mb-2">Only Show Cars From</span>
+            <span className="block text-center font-bold uppercase text-sm mb-2">Only show cars made by</span>
             {options}
         </div>
     )
