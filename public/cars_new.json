@@ -45,7 +45,9 @@
       "Phone App": true,
       "Wireless Phone Charger": true,
       "USB Ports": true,
-      "Emergency Call System": true
+      "Emergency Call System": true,
+      "Android Auto": true,
+      "Apple CarPlay": true
     },
     "driver_assist": {
       "Automatic Emergency Braking": true,
@@ -119,7 +121,9 @@
       "Phone App": true,
       "Wireless Phone Charger": true,
       "USB Ports": true,
-      "Emergency Call System": true
+      "Emergency Call System": true,
+      "Android Auto": true,
+      "Apple CarPlay": true
     },
     "driver_assist": {
       "Automatic Emergency Braking": true,
@@ -193,7 +197,9 @@
       "Phone App": true,
       "Wireless Phone Charger": false,
       "USB Ports": true,
-      "Emergency Call System": false
+      "Emergency Call System": false,
+      "Android Auto": false,
+      "Apple CarPlay": false
     },
     "driver_assist": {
       "Automatic Emergency Braking": false,
@@ -267,7 +273,9 @@
       "Phone App": true,
       "Wireless Phone Charger": true,
       "USB Ports": true,
-      "Emergency Call System": false
+      "Emergency Call System": false,
+      "Android Auto": true,
+      "Apple CarPlay": true
     },
     "driver_assist": {
       "Automatic Emergency Braking": false,
@@ -341,7 +349,9 @@
       "Phone App": true,
       "Wireless Phone Charger": true,
       "USB Ports": true,
-      "Emergency Call System": false
+      "Emergency Call System": false,
+      "Android Auto": true,
+      "Apple CarPlay": true
     },
     "driver_assist": {
       "Automatic Emergency Braking": "Some Models",
@@ -415,7 +425,9 @@
       "Phone App": true,
       "Wireless Phone Charger": true,
       "USB Ports": true,
-      "Emergency Call System": true
+      "Emergency Call System": true,
+      "Android Auto": true,
+      "Apple CarPlay": true
     },
     "driver_assist": {
       "Automatic Emergency Braking": true,
@@ -488,7 +500,9 @@
       "Phone App": true,
       "Wireless Phone Charger": false,
       "USB Ports": true,
-      "Emergency Call System": true
+      "Emergency Call System": true,
+      "Android Auto": true,
+      "Apple CarPlay": true
     },
     "driver_assist": {
       "Automatic Emergency Braking": true,
@@ -561,7 +575,9 @@
       "Phone App": true,
       "Wireless Phone Charger": false,
       "USB Ports": true,
-      "Emergency Call System": true
+      "Emergency Call System": true,
+      "Android Auto": true,
+      "Apple CarPlay": true
     },
     "driver_assist": {
       "Automatic Emergency Braking": true,
@@ -634,7 +650,9 @@
       "Phone App": true,
       "Wireless Phone Charger": false,
       "USB Ports": true,
-      "Emergency Call System": true
+      "Emergency Call System": true,
+      "Android Auto": true,
+      "Apple CarPlay": true
     },
     "driver_assist": {
       "Automatic Emergency Braking": true,
@@ -707,7 +725,9 @@
       "Phone App": true,
       "Wireless Phone Charger": true,
       "USB Ports": true,
-      "Emergency Call System": true
+      "Emergency Call System": true,
+      "Android Auto": true,
+      "Apple CarPlay": true
     },
     "driver_assist": {
       "Automatic Emergency Braking": false,
@@ -780,7 +800,9 @@
       "Phone App": true,
       "Wireless Phone Charger": true,
       "USB Ports": true,
-      "Emergency Call System": true
+      "Emergency Call System": true,
+      "Android Auto": true,
+      "Apple CarPlay": true
     },
     "driver_assist": {
       "Automatic Emergency Braking": true,
@@ -853,7 +875,9 @@
       "Phone App": true,
       "Wireless Phone Charger": true,
       "USB Ports": true,
-      "Emergency Call System": true
+      "Emergency Call System": true,
+      "Android Auto": true,
+      "Apple CarPlay": true
     },
     "driver_assist": {
       "Automatic Emergency Braking": true,
@@ -926,7 +950,9 @@
       "Phone App": false,
       "Wireless Phone Charger": false,
       "USB Ports": true,
-      "Emergency Call System": true
+      "Emergency Call System": true,
+      "Android Auto": false,
+      "Apple CarPlay": false
     },
     "driver_assist": {
       "Automatic Emergency Braking": true,
@@ -999,7 +1025,9 @@
       "Phone App": false,
       "Wireless Phone Charger": false,
       "USB Ports": true,
-      "Emergency Call System": true
+      "Emergency Call System": true,
+      "Android Auto": false,
+      "Apple CarPlay": false
     },
     "driver_assist": {
       "Automatic Emergency Braking": true,
@@ -1072,7 +1100,9 @@
       "Phone App": true,
       "Wireless Phone Charger": false,
       "USB Ports": true,
-      "Emergency Call System": true
+      "Emergency Call System": true,
+      "Android Auto": true,
+      "Apple CarPlay": true
     },
     "driver_assist": {
       "Automatic Emergency Braking": true,
@@ -1145,7 +1175,9 @@
       "Phone App": true,
       "Wireless Phone Charger": true,
       "USB Ports": true,
-      "Emergency Call System": true
+      "Emergency Call System": true,
+      "Android Auto": true,
+      "Apple CarPlay": true
     },
     "driver_assist": {
       "Automatic Emergency Braking": true,

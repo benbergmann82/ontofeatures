@@ -43,7 +43,8 @@ const Options = ({ hidden }) => {
                     <Option title="Built-in Satnav" callback={toggleOption} />
                     <Option title="Phone App" callback={toggleOption} />
                     <Option title="Wireless Phone Charger" callback={toggleOption} />
-                    <Option title="USB Ports" callback={toggleOption} />
+                    <Option title="Android Auto" callback={toggleOption} />
+                    <Option title="Apple CarPlay" callback={toggleOption} />
                     <span className="text-center font-bold uppercase text-sm mb-2 mt-4">Exterior</span>
                     <Option title="LED Front Lights" callback={toggleOption} />
                     <Option title="LED Rear Lights" callback={toggleOption} />
