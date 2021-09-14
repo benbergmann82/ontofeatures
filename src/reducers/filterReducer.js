@@ -6,7 +6,7 @@ const initialState = {
     "min_battery": 30,
     "options" : [],
     "connector": ["Type 2", "CCS", "CHAdeMO"],
-    "seat_material": ["Cloth", "Leather", "Synthetic Leather"],
+    "seat_material": ["Cloth", "Leather", "Synthetic Leather", "Microfleece"],
     "steering_wheel_material": ["Leather", "Synthetic Leather"],
     "manufacturers": ["Audi", "Citroen DS3", "Hyundai", "Jaguar", "Peugeot", "Renault", "Tesla", "Volkswagen"]
 };

@@ -11,7 +11,7 @@
   "torque": 229,
   "battery": 58.0,
   "drive": "rear",
-  "max_charging_speed": 100,
+  "max_charging_speed": 120,
   "image": "ID3_1.jpg",
   "features": {
     "lights": {
@@ -69,7 +69,7 @@
     },
     "charging": {
       "Useable Battery": "58 kWh",
-      "Max Charging Speed": "100 kW",
+      "Max Charging Speed": "120 kW",
       "Connector": ["Type 2", "CCS"]
 
     }
@@ -1201,6 +1201,82 @@
       "Useable Battery": "95 kWh",
       "Max Charging Speed": "155 kW",
       "Connector": ["Type 2", "CCS"]
+    }
+  }
+},
+{
+  "id": 17,
+  "make": "Volkswagen",
+  "name": "ID.3 Family Pro Performance",
+  "capacity": 58.0,
+  "price": 589,
+  "range": 215,
+  "speed": 7.3,
+  "power": 150,
+  "torque": 229,
+  "battery": 58.0,
+  "drive": "rear",
+  "max_charging_speed": 120,
+  "image": "ID3Family_1.jpg",
+  "features": {
+    "lights": {
+      "LED Front Lights": "IQ. Light",
+      "LED Rear Lights": true,
+      "LED Daytime Running Lights": true
+    },
+    "interior": {
+      "Seat Material": ["Microfleece"],
+      "Steering Wheel": ["Leather"],
+      "Heated Steering Wheel": true,
+      "Electric Windows Front": true,
+      "Electric Windows Rear": true,
+      "Driver Armrest": true,
+      "Passenger Armrest": true,
+      "Centre Console Storage": true,
+      "Seat Height Adjustment Driver": "Manual",
+      "Seat Height Adjustment Passenger": "Manual",
+      "Split-folding Rear Seats": true,
+      "Isofix": true,
+      "Air Conditioning": "Dual Zone Climate Control",
+      "Welcome Light": true,
+      "Anti-theft Alarm": true,
+      "Electric Foldable Mirrors": true,
+      "Heated Seats": true,
+      "Keyless Entry": true
+    },
+    "connectivity": {
+      "DAB Radio": true,
+      "Built-in Satnav": true,
+      "Phone App": true,
+      "Wireless Phone Charger": true,
+      "USB Ports": true,
+      "Emergency Call System": true,
+      "Android Auto": true,
+      "Apple CarPlay": true
+    },
+    "driver_assist": {
+      "Automatic Emergency Braking": true,
+      "Tyre Pressure Monitor": true,
+      "Automatic Wipers": true,
+      "Cruise Control": "Adaptive (ACC)",
+      "Adaptive Cruise Control": true,
+      "Lane Keep Assist": true,
+      "Lane Follow Assist": false,
+      "Parking Sensors Front": true,
+      "Parking Sensors Rear": true,
+      "Rearview Camera": true,
+      "Blind Spot Monitoring": false,
+      "Auto-dimming Rearview Mirror": true
+    },
+    "wheels": {
+      "Size": "215/50 R19",
+      "Alloy Wheels": "Andoya 19 Inch Alloys"
+    },
+    "charging": {
+      "Useable Battery": "58 kWh",
+      "Max Charging Speed": "120 kW",
+      "Connector": ["Type 2", "CCS"]
+
     }
   }
 }

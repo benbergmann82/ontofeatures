@@ -39,6 +39,10 @@ const Materials = ({ hidden }) => {
                     <input onChange={toggleSeats} checked={filter.seat_material.includes("Synthetic Leather")} className="mr-1" type="checkbox" id="synthetic" name="Synthetic Leather" />
                     <label htmlFor="synthetic">Synthetic Leather</label>
                 </div>
+                <div className="inline-block mx-2">
+                    <input onChange={toggleSeats} checked={filter.seat_material.includes("Microfleece")} className="mr-1" type="checkbox" id="microfleece" name="Microfleece" />
+                    <label htmlFor="microfleece">Microfleece</label>
+                </div>
             </div>
             <div className="mb-2">
                 <span className="block mb-2 font-bold text-sm">Steering Wheel:</span>
