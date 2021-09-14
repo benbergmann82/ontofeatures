@@ -1,0 +1,1159 @@
+[
+{
+  "id": 1,
+  "make": "Volkswagen",
+  "name": "ID.3 Life Pro Performance",
+  "capacity": 58.0,
+  "price": 559,
+  "range": 215,
+  "speed": 7.3,
+  "power": 150,
+  "torque": 229,
+  "battery": 58.0,
+  "drive": "rear",
+  "max_charging_speed": 100,
+  "image": "ID3_1.jpg",
+  "features": {
+    "lights": {
+      "LED Front Lights": true,
+      "LED Rear Lights": true,
+      "LED Daytime Running Lights": true
+    },
+    "interior": {
+      "Seat Material": ["Cloth"],
+      "Steering Wheel": ["Leather"],
+      "Heated Steering Wheel": true,
+      "Electric Windows Front": true,
+      "Electric Windows Rear": true,
+      "Driver Armrest": true,
+      "Passenger Armrest": true,
+      "Centre Console Storage": true,
+      "Seat Height Adjustment Driver": "Manual",
+      "Seat Height Adjustment Passenger": "Manual",
+      "Split-folding Rear Seats": true,
+      "Isofix": true,
+      "Air Conditioning": "One Zone Climate Control",
+      "Welcome Light": true,
+      "Anti-theft Alarm": true,
+      "Electric Foldable Mirrors": true,
+      "Heated Seats": true,
+      "Keyless Entry": false
+    },
+    "connectivity": {
+      "DAB Radio": true,
+      "Built-in Satnav": true,
+      "Phone App": true,
+      "Wireless Phone Charger": true,
+      "USB Ports": true,
+      "Emergency Call System": true
+    },
+    "driver_assist": {
+      "Automatic Emergency Braking": true,
+      "Tyre Pressure Monitor": true,
+      "Automatic Wipers": true,
+      "Cruise Control": "Adaptive (ACC)",
+      "Lane Keep Assist": true,
+      "Lane Follow Assist": false,
+      "Parking Sensors Front": true,
+      "Parking Sensors Rear": true,
+      "Rearview Camera": false,
+      "Blind Spot Monitoring": false,
+      "Auto-dimming Rearview Mirror": true
+    },
+    "wheels": {
+      "Size": "215/55 R18",
+      "Alloy Wheels": "East Derry 18 Inch"
+    },
+    "charging": {
+      "Useable Battery": "58 kWh",
+      "Max Charging Speed": "100 kW",
+      "Connector": ["Type 2", "CCS"]
+
+    }
+  }
+},
+{
+  "id": 2,
+  "make": "Hyundai",
+  "name": "Ioniq Premium 38kWh",
+  "capacity": 38.0,
+  "price": 419,
+  "range": 155,
+  "speed": 9.7,
+  "power": 100,
+  "torque": 218,
+  "battery": 38.0,
+  "drive": "front",
+  "max_charging_speed": 50,
+  "image": "Ioniq38_1.jpg",
+  "features": {
+    "lights": {
+      "LED Front Lights": true,
+      "LED Rear Lights": true,
+      "LED Daytime Running Lights": true
+    },
+    "interior": {
+      "Seat Material": ["Cloth"],
+      "Steering Wheel": ["Leather"],
+      "Heated Steering Wheel": true,
+      "Electric Windows Front": true,
+      "Electric Windows Rear": true,
+      "Driver Armrest": true,
+      "Passenger Armrest": false,
+      "Centre Console Storage": true,
+      "Seat Height Adjustment Driver": "Manual",
+      "Seat Height Adjustment Passenger": "Manual",
+      "Split-folding Rear Seats": true,
+      "Isofix": true,
+      "Air Conditioning": "Dual Zone Climate Control",
+      "Welcome Light": false,
+      "Anti-theft Alarm": false,
+      "Electric Foldable Mirrors": true,
+      "Heated Seats": true,
+      "Keyless Entry": true
+    },
+    "connectivity": {
+      "DAB Radio": true,
+      "Built-in Satnav": true,
+      "Phone App": true,
+      "Wireless Phone Charger": true,
+      "USB Ports": true,
+      "Emergency Call System": true
+    },
+    "driver_assist": {
+      "Automatic Emergency Braking": true,
+      "Tyre Pressure Monitor": true,
+      "Automatic Wipers": true,
+      "Cruise Control": "Adaptive (ACC)",
+      "Lane Keep Assist": true,
+      "Lane Follow Assist": false,
+      "Parking Sensors Front": false,
+      "Parking Sensors Rear": true,
+      "Rearview Camera": true,
+      "Blind Spot Monitoring": false,
+      "Auto-dimming Rearview Mirror": true
+    },
+    "wheels": {
+      "Size": "16 Inches",
+      "Alloy Wheels": true
+    },
+    "charging": {
+      "Useable Battery": "38 kWh",
+      "Max Charging Speed": "50 kW",
+      "Connector": ["Type 2", "CCS"]
+
+    }
+  }
+},
+{
+  "id": 3,
+  "make": "Volkswagen",
+  "name": "e-up",
+  "capacity": 32.3,
+  "price": 339,
+  "range": 125,
+  "speed": 11.9,
+  "power": 61,
+  "torque": 155,
+  "battery": 32.3,
+  "drive": "front",
+  "max_charging_speed": 40,
+  "image": "eup_1.jpg",
+  "features": {
+    "lights": {
+      "LED Front Lights": false,
+      "LED Rear Lights": false,
+      "LED Daytime Running Lights": true
+    },
+    "interior": {
+      "Seat Material": ["Cloth"],
+      "Steering Wheel": ["Leather"],
+      "Heated Steering Wheel": false,
+      "Electric Windows Front": true,
+      "Electric Windows Rear": false,
+      "Driver Armrest": false,
+      "Passenger Armrest": false,
+      "Centre Console Storage": true,
+      "Seat Height Adjustment Driver": true,
+      "Seat Height Adjustment Passenger": true,
+      "Split-folding Rear Seats": true,
+      "Isofix": true,
+      "Air Conditioning": "Dual Zone Climate Control",
+      "Welcome Light": "Manual",
+      "Anti-theft Alarm": false,
+      "Electric Foldable Mirrors": false,
+      "Heated Seats": true,
+      "Keyless Entry": false
+    },
+    "connectivity": {
+      "DAB Radio": true,
+      "Built-in Satnav": true,
+      "Phone App": true,
+      "Wireless Phone Charger": false,
+      "USB Ports": true,
+      "Emergency Call System": false
+    },
+    "driver_assist": {
+      "Automatic Emergency Braking": false,
+      "Tyre Pressure Monitor": true,
+      "Automatic Wipers": true,
+      "Cruise Control": true,
+      "Lane Keep Assist": true,
+      "Lane Follow Assist": false,
+      "Parking Sensors Front": false,
+      "Parking Sensors Rear": true,
+      "Rearview Camera": true,
+      "Blind Spot Monitoring": false,
+      "Auto-dimming Rearview Mirror": false
+    },
+    "wheels": {
+      "Size": "165/65 R15",
+      "Alloy Wheels": "Tezzle 15 Inch"
+    },
+    "charging": {
+      "Useable Battery": "32.3 kWh",
+      "Max Charging Speed": "40 kW",
+      "Connector": ["Type 2", "CCS"]
+
+    }
+  }
+},
+{
+  "id": 4,
+  "make": "Renault",
+  "name": "Zoe ZE50 Iconic R135",
+  "capacity": 52,
+  "price": 389,
+  "range": 190,
+  "speed": 9.5,
+  "power": 100,
+  "torque": 181,
+  "battery": 52,
+  "drive": "front",
+  "max_charging_speed": 50,
+  "image": "ZoeIconic_1.jpg",
+  "features": {
+    "lights": {
+      "LED Front Lights": true,
+      "LED Rear Lights": true,
+      "LED Daytime Running Lights": true
+    },
+    "interior": {
+      "Seat Material": ["Cloth"],
+      "Steering Wheel": ["Synthetic Leather"],
+      "Heated Steering Wheel": false,
+      "Electric Windows Front": true,
+      "Electric Windows Rear": true,
+      "Driver Armrest": false,
+      "Passenger Armrest": false,
+      "Centre Console Storage": false,
+      "Seat Height Adjustment Driver": false,
+      "Seat Height Adjustment Passenger": false,
+      "Split-folding Rear Seats": true,
+      "Isofix": true,
+      "Air Conditioning": "Automatic Climate Control",
+      "Welcome Light": false,
+      "Anti-theft Alarm": false,
+      "Electric Foldable Mirrors": false,
+      "Heated Seats": false,
+      "Keyless Entry": true
+    },
+    "connectivity": {
+      "DAB Radio": true,
+      "Built-in Satnav": true,
+      "Phone App": true,
+      "Wireless Phone Charger": true,
+      "USB Ports": true,
+      "Emergency Call System": false
+    },
+    "driver_assist": {
+      "Automatic Emergency Braking": false,
+      "Tyre Pressure Monitor": true,
+      "Automatic Wipers": true,
+      "Cruise Control": true,
+      "Lane Keep Assist": true,
+      "Lane Follow Assist": false,
+      "Parking Sensors Front": false,
+      "Parking Sensors Rear": true,
+      "Rearview Camera": false,
+      "Blind Spot Monitoring": false,
+      "Auto-dimming Rearview Mirror": true
+    },
+    "wheels": {
+      "Size": "16 Inches",
+      "Alloy Wheels": true
+    },
+    "charging": {
+      "Useable Battery": "52 kWh",
+      "Max Charging Speed": "50 kW",
+      "Connector": ["Type 2", "CCS"]
+
+    }
+  }
+},
+{
+  "id": 5,
+  "make": "Renault",
+  "name": "Zoe ZE50 GT Line R135",
+  "capacity": 52,
+  "price": 399,
+  "range": 190,
+  "speed": 9.5,
+  "power": 100,
+  "torque": 181,
+  "battery": 52,
+  "drive": "front",
+  "max_charging_speed": 50,
+  "image": "ZoeGT_1.jpg",
+  "features": {
+    "lights": {
+      "LED Front Lights": true,
+      "LED Rear Lights": true,
+      "LED Daytime Running Lights": true
+    },
+    "interior": {
+      "Seat Material": ["Cloth", "Leather"],
+      "Steering Wheel": ["Synthetic Leather"],
+      "Heated Steering Wheel": false,
+      "Electric Windows Front": true,
+      "Electric Windows Rear": true,
+      "Driver Armrest": false,
+      "Passenger Armrest": false,
+      "Centre Console Storage": false,
+      "Seat Height Adjustment Driver": false,
+      "Seat Height Adjustment Passenger": false,
+      "Split-folding Rear Seats": true,
+      "Isofix": true,
+      "Air Conditioning": "Automatic Climate Control",
+      "Welcome Light": false,
+      "Anti-theft Alarm": false,
+      "Electric Foldable Mirrors": true,
+      "Heated Seats": false,
+      "Keyless Entry": true
+    },
+    "connectivity": {
+      "DAB Radio": true,
+      "Built-in Satnav": true,
+      "Phone App": true,
+      "Wireless Phone Charger": true,
+      "USB Ports": true,
+      "Emergency Call System": false
+    },
+    "driver_assist": {
+      "Automatic Emergency Braking": "Some Models",
+      "Tyre Pressure Monitor": true,
+      "Automatic Wipers": true,
+      "Cruise Control": true,
+      "Lane Keep Assist": true,
+      "Lane Follow Assist": false,
+      "Parking Sensors Front": true,
+      "Parking Sensors Rear": true,
+      "Rearview Camera": true,
+      "Blind Spot Monitoring": true,
+      "Auto-dimming Rearview Mirror": true
+    },
+    "wheels": {
+      "Size": "16 Inches",
+      "Alloy Wheels": "Diamond-Cut Alloys"
+    },
+    "charging": {
+      "Useable Battery": "52 kWh",
+      "Max Charging Speed": "50 kW",
+      "Connector": ["Type 2", "CCS"]
+
+    }
+  }
+},
+{
+  "id": 6,
+  "make": "Peugeot",
+  "name": "e-208 GT Line",
+  "capacity": 45,
+  "price": 449,
+  "range": 170,
+  "speed": 8.1,
+  "power": 100,
+  "torque": 192,
+  "battery": 45,
+  "drive": "front",
+  "max_charging_speed": 100,
+  "image": "e208GTLine_1.jpg",
+  "features": {
+    "lights": {
+      "LED Front Lights": true,
+      "LED Rear Lights": true,
+      "LED Daytime Running Lights": true
+    },
+    "interior": {
+      "Seat Material": ["Cloth", "Synthetic Leather"],
+      "Steering Wheel": ["Leather"],
+      "Heated Steering Wheel": false,
+      "Electric Windows Front": true,
+      "Electric Windows Rear": true,
+      "Driver Armrest": true,
+      "Passenger Armrest": false,
+      "Centre Console Storage": true,
+      "Seat Height Adjustment Driver": true,
+      "Seat Height Adjustment Passenger": true,
+      "Split-folding Rear Seats": true,
+      "Isofix": true,
+      "Air Conditioning": "Dual-Zone Climate Control",
+      "Welcome Light": false,
+      "Anti-theft Alarm": true,
+      "Electric Foldable Mirrors": true,
+      "Heated Seats": false,
+      "Keyless Entry": false
+    },
+    "connectivity": {
+      "DAB Radio": true,
+      "Built-in Satnav": true,
+      "Phone App": true,
+      "Wireless Phone Charger": true,
+      "USB Ports": true,
+      "Emergency Call System": true
+    },
+    "driver_assist": {
+      "Automatic Emergency Braking": true,
+      "Tyre Pressure Monitor": true,
+      "Automatic Wipers": false,
+      "Cruise Control": true,
+      "Lane Keep Assist": true,
+      "Lane Follow Assist": false,
+      "Parking Sensors Front": true,
+      "Parking Sensors Rear": true,
+      "Rearview Camera": true,
+      "Blind Spot Monitoring": false,
+      "Auto-dimming Rearview Mirror": false
+    },
+    "wheels": {
+      "Size": "17 Inches",
+      "Alloy Wheels": "\"Shaw\" Diamond-Cut 2-tone Alloys"
+    },
+    "charging": {
+      "Useable Battery": "45 kWh",
+      "Max Charging Speed": "100 kW",
+      "Connector": ["Type 2", "CCS"]
+    }
+  }
+},
+{
+  "id": 7,
+  "make": "Peugeot",
+  "name": "e-208 GT",
+  "capacity": 45,
+  "price": 469,
+  "range": 170,
+  "speed": 8.1,
+  "power": 100,
+  "torque": 192,
+  "battery": 45,
+  "drive": "front",
+  "max_charging_speed": 100,
+  "image": "e208GT_1.jpg",
+  "features": {
+    "lights": {
+      "LED Front Lights": true,
+      "LED Rear Lights": true,
+      "LED Daytime Running Lights": true
+    },
+    "interior": {
+      "Seat Material": ["Cloth", "Synthetic Leather"],
+      "Steering Wheel": ["Leather"],
+      "Heated Steering Wheel": false,
+      "Electric Windows Front": true,
+      "Electric Windows Rear": true,
+      "Driver Armrest": true,
+      "Passenger Armrest": false,
+      "Centre Console Storage": true,
+      "Seat Height Adjustment Driver": true,
+      "Seat Height Adjustment Passenger": true,
+      "Split-folding Rear Seats": true,
+      "Isofix": true,
+      "Air Conditioning": "Dual-Zone Climate Control",
+      "Welcome Light": false,
+      "Anti-theft Alarm": true,
+      "Electric Foldable Mirrors": true,
+      "Heated Seats": false,
+      "Keyless Entry": false
+    },
+    "connectivity": {
+      "DAB Radio": true,
+      "Built-in Satnav": true,
+      "Phone App": true,
+      "Wireless Phone Charger": false,
+      "USB Ports": true,
+      "Emergency Call System": true
+    },
+    "driver_assist": {
+      "Automatic Emergency Braking": true,
+      "Tyre Pressure Monitor": true,
+      "Automatic Wipers": false,
+      "Cruise Control": true,
+      "Lane Keep Assist": true,
+      "Lane Follow Assist": false,
+      "Parking Sensors Front": true,
+      "Parking Sensors Rear": true,
+      "Rearview Camera": true,
+      "Blind Spot Monitoring": true,
+      "Auto-dimming Rearview Mirror": false
+    },
+    "wheels": {
+      "Size": "17 Inches",
+      "Alloy Wheels": "\"Shaw\" Diamond-Cut 2-tone Alloys"
+    },
+    "charging": {
+      "Useable Battery": "45 kWh",
+      "Max Charging Speed": "100 kW",
+      "Connector": ["Type 2", "CCS"]
+    }
+  }
+},
+{
+  "id": 8,
+  "make": "Citroen DS3",
+  "name": "Crossback E-Tense Performance Line",
+  "capacity": 45,
+  "price": 499,
+  "range": 155,
+  "speed": 8.7,
+  "power": 100,
+  "torque": 192,
+  "battery": 45,
+  "drive": "front",
+  "max_charging_speed": 100,
+  "image": "DS3Perf_1.jpg",
+  "features": {
+    "lights": {
+      "LED Front Lights": false,
+      "LED Rear Lights": false,
+      "LED Daytime Running Lights": true
+    },
+    "interior": {
+      "Seat Material": ["Cloth"],
+      "Steering Wheel": ["Leather"],
+      "Heated Steering Wheel": false,
+      "Electric Windows Front": true,
+      "Electric Windows Rear": true,
+      "Driver Armrest": true,
+      "Passenger Armrest": false,
+      "Centre Console Storage": true,
+      "Seat Height Adjustment Driver": true,
+      "Seat Height Adjustment Passenger": true,
+      "Split-folding Rear Seats": true,
+      "Isofix": true,
+      "Air Conditioning": true,
+      "Welcome Light": false,
+      "Anti-theft Alarm": true,
+      "Electric Foldable Mirrors": true,
+      "Heated Seats": false,
+      "Keyless Entry": false
+    },
+    "connectivity": {
+      "DAB Radio": true,
+      "Built-in Satnav": true,
+      "Phone App": true,
+      "Wireless Phone Charger": false,
+      "USB Ports": true,
+      "Emergency Call System": true
+    },
+    "driver_assist": {
+      "Automatic Emergency Braking": true,
+      "Tyre Pressure Monitor": true,
+      "Automatic Wipers": true,
+      "Cruise Control": true,
+      "Lane Keep Assist": true,
+      "Lane Follow Assist": false,
+      "Parking Sensors Front": true,
+      "Parking Sensors Rear": true,
+      "Rearview Camera": false,
+      "Blind Spot Monitoring": true,
+      "Auto-dimming Rearview Mirror": false
+    },
+    "wheels": {
+      "Size": "17 Inches",
+      "Alloy Wheels": "\"Dubai\" Black Onyx Alloys"
+    },
+    "charging": {
+      "Useable Battery": "45 kWh",
+      "Max Charging Speed": "100 kW",
+      "Connector": ["Type 2", "CCS"]
+    }
+  }
+},
+{
+  "id": 9,
+  "make": "Citroen DS3",
+  "name": "Crossback E-Tense Ultra Prestige",
+  "capacity": 45,
+  "price": 519,
+  "range": 155,
+  "speed": 8.7,
+  "power": 100,
+  "torque": 192,
+  "battery": 45,
+  "drive": "front",
+  "max_charging_speed": 100,
+  "image": "DS3Pres_1.jpg",
+  "features": {
+    "lights": {
+      "LED Front Lights": true,
+      "LED Rear Lights": true,
+      "LED Daytime Running Lights": true
+    },
+    "interior": {
+      "Seat Material": ["Leather"],
+      "Steering Wheel": ["Leather"],
+      "Heated Steering Wheel": false,
+      "Electric Windows Front": true,
+      "Electric Windows Rear": true,
+      "Driver Armrest": true,
+      "Passenger Armrest": false,
+      "Centre Console Storage": true,
+      "Seat Height Adjustment Driver": true,
+      "Seat Height Adjustment Passenger": true,
+      "Split-folding Rear Seats": true,
+      "Isofix": true,
+      "Air Conditioning": true,
+      "Welcome Light": false,
+      "Anti-theft Alarm": true,
+      "Electric Foldable Mirrors": true,
+      "Heated Seats": false,
+      "Keyless Entry": true
+    },
+    "connectivity": {
+      "DAB Radio": true,
+      "Built-in Satnav": true,
+      "Phone App": true,
+      "Wireless Phone Charger": false,
+      "USB Ports": true,
+      "Emergency Call System": true
+    },
+    "driver_assist": {
+      "Automatic Emergency Braking": true,
+      "Tyre Pressure Monitor": true,
+      "Automatic Wipers": true,
+      "Cruise Control": true,
+      "Lane Keep Assist": true,
+      "Lane Follow Assist": false,
+      "Parking Sensors Front": true,
+      "Parking Sensors Rear": true,
+      "Rearview Camera": true,
+      "Blind Spot Monitoring": true,
+      "Auto-dimming Rearview Mirror": false
+    },
+    "wheels": {
+      "Size": "18 Inches",
+      "Alloy Wheels": "\"KYOTO\" Diamond-Cut Alloys"
+    },
+    "charging": {
+      "Useable Battery": "45 kWh",
+      "Max Charging Speed": "100 kW",
+      "Connector": ["Type 2", "CCS"]
+    }
+  }
+},
+{
+  "id": 10,
+  "make": "Peugeot",
+  "name": "e-2008 GT",
+  "capacity": 45,
+  "price": 539,
+  "range": 155,
+  "speed": 8.5,
+  "power": 100,
+  "torque": 192,
+  "battery": 45,
+  "drive": "front",
+  "max_charging_speed": 100,
+  "image": "e2008_1.jpg",
+  "features": {
+    "lights": {
+      "LED Front Lights": true,
+      "LED Rear Lights": true,
+      "LED Daytime Running Lights": true
+    },
+    "interior": {
+      "Seat Material": ["Cloth", "Synthetic Leather"],
+      "Steering Wheel": ["Leather"],
+      "Heated Steering Wheel": false,
+      "Electric Windows Front": true,
+      "Electric Windows Rear": true,
+      "Driver Armrest": true,
+      "Passenger Armrest": false,
+      "Centre Console Storage": true,
+      "Seat Height Adjustment Driver": true,
+      "Seat Height Adjustment Passenger": true,
+      "Split-folding Rear Seats": true,
+      "Isofix": true,
+      "Air Conditioning": true,
+      "Welcome Light": false,
+      "Anti-theft Alarm": true,
+      "Electric Foldable Mirrors": true,
+      "Heated Seats": true,
+      "Keyless Entry": false
+    },
+    "connectivity": {
+      "DAB Radio": true,
+      "Built-in Satnav": true,
+      "Phone App": true,
+      "Wireless Phone Charger": true,
+      "USB Ports": true,
+      "Emergency Call System": true
+    },
+    "driver_assist": {
+      "Automatic Emergency Braking": false,
+      "Tyre Pressure Monitor": true,
+      "Automatic Wipers": true,
+      "Cruise Control": true,
+      "Lane Keep Assist": true,
+      "Lane Follow Assist": false,
+      "Parking Sensors Front": true,
+      "Parking Sensors Rear": true,
+      "Rearview Camera": true,
+      "Blind Spot Monitoring": true,
+      "Auto-dimming Rearview Mirror": true
+    },
+    "wheels": {
+      "Size": "17 Inches",
+      "Alloy Wheels": "\"SALAMANCA\" Diamond-Cut Alloys"
+    },
+    "charging": {
+      "Useable Battery": "45 kWh",
+      "Max Charging Speed": "100 kW",
+      "Connector": ["Type 2", "CCS"]
+    }
+  }
+},
+{
+  "id": 11,
+  "make": "Hyundai",
+  "name": "Kona Premium SE 64kWh",
+  "capacity": 64,
+  "price": 559,
+  "range": 245,
+  "speed": 7.9,
+  "power": 150,
+  "torque": 291,
+  "battery": 64,
+  "drive": "front",
+  "max_charging_speed": 77,
+  "image": "KonaPremiumSE_1.jpg",
+  "features": {
+    "lights": {
+      "LED Front Lights": true,
+      "LED Rear Lights": true,
+      "LED Daytime Running Lights": true
+    },
+    "interior": {
+      "Seat Material": ["Leather"],
+      "Steering Wheel": ["Leather"],
+      "Heated Steering Wheel": true,
+      "Electric Windows Front": true,
+      "Electric Windows Rear": true,
+      "Driver Armrest": true,
+      "Passenger Armrest": false,
+      "Centre Console Storage": true,
+      "Seat Height Adjustment Driver": true,
+      "Seat Height Adjustment Passenger": true,
+      "Split-folding Rear Seats": true,
+      "Isofix": true,
+      "Air Conditioning": "Climate Control",
+      "Welcome Light": false,
+      "Anti-theft Alarm": true,
+      "Electric Foldable Mirrors": true,
+      "Heated Seats": true,
+      "Keyless Entry": true
+    },
+    "connectivity": {
+      "DAB Radio": true,
+      "Built-in Satnav": true,
+      "Phone App": true,
+      "Wireless Phone Charger": true,
+      "USB Ports": true,
+      "Emergency Call System": true
+    },
+    "driver_assist": {
+      "Automatic Emergency Braking": true,
+      "Tyre Pressure Monitor": true,
+      "Automatic Wipers": true,
+      "Cruise Control": true,
+      "Lane Keep Assist": true,
+      "Lane Follow Assist": true,
+      "Parking Sensors Front": true,
+      "Parking Sensors Rear": true,
+      "Rearview Camera": true,
+      "Blind Spot Monitoring": true,
+      "Auto-dimming Rearview Mirror": true
+    },
+    "wheels": {
+      "Size": "17 Inches",
+      "Alloy Wheels": true
+    },
+    "charging": {
+      "Useable Battery": "64 kWh",
+      "Max Charging Speed": "77 kW",
+      "Connector": ["Type 2", "CCS"]
+    }
+  }
+},
+{
+  "id": 12,
+  "make": "Hyundai",
+  "name": "Kona Ultimate 64kWh",
+  "capacity": 64,
+  "price": 589,
+  "range": 245,
+  "speed": 7.9,
+  "power": 150,
+  "torque": 291,
+  "battery": 64,
+  "drive": "front",
+  "max_charging_speed": 77,
+  "image": "KonaUltimate_1.jpg",
+  "features": {
+    "lights": {
+      "LED Front Lights": true,
+      "LED Rear Lights": true,
+      "LED Daytime Running Lights": true
+    },
+    "interior": {
+      "Seat Material": ["Leather"],
+      "Steering Wheel": ["Leather"],
+      "Heated Steering Wheel": true,
+      "Electric Windows Front": true,
+      "Electric Windows Rear": true,
+      "Driver Armrest": true,
+      "Passenger Armrest": false,
+      "Centre Console Storage": true,
+      "Seat Height Adjustment Driver": true,
+      "Seat Height Adjustment Passenger": true,
+      "Split-folding Rear Seats": true,
+      "Isofix": true,
+      "Air Conditioning": "Climate Control",
+      "Welcome Light": false,
+      "Anti-theft Alarm": true,
+      "Electric Foldable Mirrors": true,
+      "Heated Seats": true,
+      "Keyless Entry": true
+    },
+    "connectivity": {
+      "DAB Radio": true,
+      "Built-in Satnav": true,
+      "Phone App": true,
+      "Wireless Phone Charger": true,
+      "USB Ports": true,
+      "Emergency Call System": true
+    },
+    "driver_assist": {
+      "Automatic Emergency Braking": true,
+      "Tyre Pressure Monitor": true,
+      "Automatic Wipers": true,
+      "Cruise Control": true,
+      "Lane Keep Assist": true,
+      "Lane Follow Assist": true,
+      "Parking Sensors Front": true,
+      "Parking Sensors Rear": true,
+      "Rearview Camera": true,
+      "Blind Spot Monitoring": true,
+      "Auto-dimming Rearview Mirror": true
+    },
+    "wheels": {
+      "Size": "17 Inches",
+      "Alloy Wheels": true
+    },
+    "charging": {
+      "Useable Battery": "64 kWh",
+      "Max Charging Speed": "77 kW",
+      "Connector": ["Type 2", "CCS"]
+    }
+  }
+},
+{
+  "id": 13,
+  "make": "Tesla",
+  "name": "Model 3 SR Plus",
+  "capacity": 55,
+  "price": 1099,
+  "range": 210,
+  "speed": 5.6,
+  "power": 202,
+  "torque": 298,
+  "battery": 55,
+  "drive": "rear",
+  "max_charging_speed": 170,
+  "image": "Model3SR_1.jpg",
+  "features": {
+    "lights": {
+      "LED Front Lights": true,
+      "LED Rear Lights": true,
+      "LED Daytime Running Lights": true
+    },
+    "interior": {
+      "Seat Material": ["Synthetic Leather"],
+      "Steering Wheel": ["Synthetic Leather"],
+      "Heated Steering Wheel": true,
+      "Electric Windows Front": true,
+      "Electric Windows Rear": true,
+      "Driver Armrest": true,
+      "Passenger Armrest": false,
+      "Centre Console Storage": true,
+      "Seat Height Adjustment Driver": true,
+      "Seat Height Adjustment Passenger": true,
+      "Split-folding Rear Seats": true,
+      "Isofix": true,
+      "Air Conditioning": "Automatic Dual-Zone Climate Control",
+      "Welcome Light": false,
+      "Anti-theft Alarm": true,
+      "Electric Foldable Mirrors": true,
+      "Heated Seats": true,
+      "Keyless Entry": false
+    },
+    "connectivity": {
+      "DAB Radio": true,
+      "Built-in Satnav": true,
+      "Phone App": false,
+      "Wireless Phone Charger": false,
+      "USB Ports": true,
+      "Emergency Call System": true
+    },
+    "driver_assist": {
+      "Automatic Emergency Braking": true,
+      "Tyre Pressure Monitor": true,
+      "Automatic Wipers": true,
+      "Cruise Control": true,
+      "Lane Keep Assist": true,
+      "Lane Follow Assist": true,
+      "Parking Sensors Front": true,
+      "Parking Sensors Rear": true,
+      "Rearview Camera": true,
+      "Blind Spot Monitoring": true,
+      "Auto-dimming Rearview Mirror": true
+    },
+    "wheels": {
+      "Size": "18 Inches",
+      "Alloy Wheels": "Aero Wheels"
+    },
+    "charging": {
+      "Useable Battery": "55 kWh",
+      "Max Charging Speed": "170 kW",
+      "Connector": ["Type 2", "CCS"]
+    }
+  }
+},
+{
+  "id": 14,
+  "make": "Tesla",
+  "name": "Model 3 Long Range",
+  "capacity": 74,
+  "price": 1299,
+  "range": 285,
+  "speed": 4.4,
+  "power": 324,
+  "torque": 364,
+  "battery": 74,
+  "drive": "AWD",
+  "max_charging_speed": 210,
+  "image": "Model3LR_1.jpg",
+  "features": {
+    "lights": {
+      "LED Front Lights": true,
+      "LED Rear Lights": true,
+      "LED Daytime Running Lights": true
+    },
+    "interior": {
+      "Seat Material": ["Synthetic Leather"],
+      "Steering Wheel": ["Synthetic Leather"],
+      "Heated Steering Wheel": true,
+      "Electric Windows Front": true,
+      "Electric Windows Rear": true,
+      "Driver Armrest": true,
+      "Passenger Armrest": false,
+      "Centre Console Storage": true,
+      "Seat Height Adjustment Driver": true,
+      "Seat Height Adjustment Passenger": true,
+      "Split-folding Rear Seats": true,
+      "Isofix": true,
+      "Air Conditioning": "Automatic Dual-Zone Climate Control",
+      "Welcome Light": false,
+      "Anti-theft Alarm": true,
+      "Electric Foldable Mirrors": true,
+      "Heated Seats": true,
+      "Keyless Entry": false
+    },
+    "connectivity": {
+      "DAB Radio": true,
+      "Built-in Satnav": true,
+      "Phone App": false,
+      "Wireless Phone Charger": false,
+      "USB Ports": true,
+      "Emergency Call System": true
+    },
+    "driver_assist": {
+      "Automatic Emergency Braking": true,
+      "Tyre Pressure Monitor": true,
+      "Automatic Wipers": true,
+      "Cruise Control": true,
+      "Lane Keep Assist": true,
+      "Lane Follow Assist": true,
+      "Parking Sensors Front": true,
+      "Parking Sensors Rear": true,
+      "Rearview Camera": true,
+      "Blind Spot Monitoring": true,
+      "Auto-dimming Rearview Mirror": true
+    },
+    "wheels": {
+      "Size": "18 Inches",
+      "Alloy Wheels": "Aero Wheels"
+    },
+    "charging": {
+      "Useable Battery": "74 kWh",
+      "Max Charging Speed": "210 kW",
+      "Connector": ["Type 2", "CCS"]
+    }
+  }
+},
+{
+  "id": 15,
+  "make": "Jaguar",
+  "name": "I-Pace HSE EV400",
+  "capacity": 90,
+  "price": 1299,
+  "range": 225,
+  "speed": 4.8,
+  "power": 294,
+  "torque": 513,
+  "battery": 90,
+  "drive": "AWD",
+  "max_charging_speed": 104,
+  "image": "JaguarIPace_1.jpg",
+  "features": {
+    "lights": {
+      "LED Front Lights": "Matrix LED",
+      "LED Rear Lights": true,
+      "LED Daytime Running Lights": true
+    },
+    "interior": {
+      "Seat Material": ["Leather"],
+      "Steering Wheel": ["Leather"],
+      "Heated Steering Wheel": true,
+      "Electric Windows Front": true,
+      "Electric Windows Rear": true,
+      "Driver Armrest": true,
+      "Passenger Armrest": false,
+      "Centre Console Storage": true,
+      "Seat Height Adjustment Driver": true,
+      "Seat Height Adjustment Passenger": true,
+      "Split-folding Rear Seats": true,
+      "Isofix": true,
+      "Air Conditioning": "Dual-Zone Climate Control",
+      "Welcome Light": false,
+      "Anti-theft Alarm": true,
+      "Electric Foldable Mirrors": true,
+      "Heated Seats": true,
+      "Keyless Entry": true
+    },
+    "connectivity": {
+      "DAB Radio": true,
+      "Built-in Satnav": true,
+      "Phone App": true,
+      "Wireless Phone Charger": false,
+      "USB Ports": true,
+      "Emergency Call System": true
+    },
+    "driver_assist": {
+      "Automatic Emergency Braking": true,
+      "Tyre Pressure Monitor": true,
+      "Automatic Wipers": true,
+      "Cruise Control": true,
+      "Lane Keep Assist": true,
+      "Lane Follow Assist": false,
+      "Parking Sensors Front": true,
+      "Parking Sensors Rear": true,
+      "Rearview Camera": true,
+      "Blind Spot Monitoring": true,
+      "Auto-dimming Rearview Mirror": true
+    },
+    "wheels": {
+      "Size": "20 Inches",
+      "Alloy Wheels": "Style 5068, 5 spoke alloys"
+    },
+    "charging": {
+      "Useable Battery": "90 kWh",
+      "Max Charging Speed": "104 kW",
+      "Connector": ["Type 2", "CCS"]
+    }
+  }
+},
+{
+  "id": 16,
+  "make": "Audi",
+  "name": "e-tron 55 Quattro Black Edition",
+  "capacity": 95,
+  "price": 1299,
+  "range": 225,
+  "speed": 5.7,
+  "power": 300,
+  "torque": 490,
+  "battery": 95,
+  "drive": "AWD",
+  "max_charging_speed": 155,
+  "image": "AudiETron55_1.jpg",
+  "features": {
+    "lights": {
+      "LED Front Lights": true,
+      "LED Rear Lights": true,
+      "LED Daytime Running Lights": true
+    },
+    "interior": {
+      "Seat Material": ["Leather"],
+      "Steering Wheel": ["Leather"],
+      "Heated Steering Wheel": false,
+      "Electric Windows Front": true,
+      "Electric Windows Rear": true,
+      "Driver Armrest": true,
+      "Passenger Armrest": false,
+      "Centre Console Storage": true,
+      "Seat Height Adjustment Driver": true,
+      "Seat Height Adjustment Passenger": true,
+      "Split-folding Rear Seats": true,
+      "Isofix": true,
+      "Air Conditioning": "Dual-Zone Climate Control",
+      "Welcome Light": false,
+      "Anti-theft Alarm": true,
+      "Electric Foldable Mirrors": true,
+      "Heated Seats": true,
+      "Keyless Entry": true
+    },
+    "connectivity": {
+      "DAB Radio": true,
+      "Built-in Satnav": true,
+      "Phone App": true,
+      "Wireless Phone Charger": true,
+      "USB Ports": true,
+      "Emergency Call System": true
+    },
+    "driver_assist": {
+      "Automatic Emergency Braking": true,
+      "Tyre Pressure Monitor": true,
+      "Automatic Wipers": true,
+      "Cruise Control": true,
+      "Lane Keep Assist": true,
+      "Lane Follow Assist": true,
+      "Parking Sensors Front": true,
+      "Parking Sensors Rear": true,
+      "Rearview Camera": true,
+      "Blind Spot Monitoring": true,
+      "Auto-dimming Rearview Mirror": true
+    },
+    "wheels": {
+      "Size": "21 Inches",
+      "Alloy Wheels": "Audi Sport alloy wheels"
+    },
+    "charging": {
+      "Useable Battery": "95 kWh",
+      "Max Charging Speed": "155 kW",
+      "Connector": ["Type 2", "CCS"]
+    }
+  }
+}
+]

@@ -1,0 +1,2213 @@
+[
+{
+  "id": 1,
+  "make": "Volkswagen",
+  "name": "ID.3 Life Pro Performance",
+  "capacity": 58.0,
+  "price": 559,
+  "range": 215,
+  "speed": 7.3,
+  "power": 150,
+  "torque": 229,
+  "battery": 58.0,
+  "drive": "rear",
+  "max_charging_speed": 100,
+  "image": "ID3_1.jpg",
+  "features": {
+    "lights": [
+      {
+        "title": "LED Front Lights",
+        "value": true
+      },
+      {
+        "title": "LED Rear Lights",
+        "value": true
+      },
+      {
+        "title": "LED Daytime Running Lights",
+        "value": true
+      }
+    ],
+    "interior": [
+      {
+        "title": "Seat Material",
+        "value": ["Cloth"]
+      },
+      {
+        "title": "Steering Wheel",
+        "value": ["Leather"]
+      },
+      {
+        "title": "Heated Steering Wheel",
+        "value": true
+      },
+      {
+        "title": "Electric Windows Front",
+        "value": true
+      },
+      {
+        "title": "Electric Windows Rear",
+        "value": true
+      },
+      {
+        "title": "Driver Armrest",
+        "value": true
+      },
+      {
+        "title": "Passenger Armrest",
+        "value": true
+      },
+      {
+        "title": "Centre Console Storage",
+        "value": true
+      },
+      {
+        "title": "Seat Height Adjustment Driver",
+        "value": "Manual"
+      },
+      {
+        "title": "Seat Height Adjustment Passenger",
+        "value": "Manual"
+      },
+      {
+        "title": "Split-folding Rear Seats",
+        "value": true
+      },
+      {
+        "title": "Isofix",
+        "value": true
+      },
+      {
+        "title": "Air Conditioning",
+        "value": "One Zone Climate Control"
+      },
+      {
+        "title": "Welcome Light",
+        "value": true
+      },
+      {
+        "title": "Anti-theft Alarm",
+        "value": true
+      },
+      {
+        "title": "Electric Foldable Mirrors",
+        "value": true
+      },
+      {
+        "title": "Heated Seats",
+        "value": true
+      },
+      {
+        "title": "Keyless Entry",
+        "value": false
+      }
+    ],
+    "connectivity": [
+      {
+        "title": "DAB Radio",
+        "value": true
+      },
+      {
+        "title": "Built-in Satnav",
+        "value": true
+      },
+      {
+        "title": "Phone App",
+        "value": true
+      },
+      {
+        "title": "Wireless Phone Charger",
+        "value": true
+      },
+      {
+        "title": "USB Ports",
+        "value": true
+      },
+      {
+        "title": "Emergency Call System",
+        "value": true
+      }
+    ],
+    "driver_assist": [
+      {
+        "title": "Automatic Emergency Braking",
+        "value": true
+      },
+      {
+        "title": "Tyre Pressure Monitor",
+        "value": true
+      },
+      {
+        "title": "Automatic Wipers",
+        "value": true
+      },
+      {
+        "title": "Cruise Control",
+        "value": "Adaptive (ACC)"
+      },
+      {
+        "title": "Lane Keep Assist",
+        "value": true
+      },
+      {
+        "title": "Lane Follow Assist",
+        "value": false
+      },
+      {
+        "title": "Parking Sensors Front",
+        "value": true
+      },
+      {
+        "title": "Parking Sensors Rear",
+        "value": true
+      },
+      {
+        "title": "Rearview Camera",
+        "value": false
+      },
+      {
+        "title": "Blind Spot Monitoring",
+        "value": false
+      },
+      {
+        "title": "Auto-dimming Rearview Mirror",
+        "value": true
+      }
+    ],
+    "wheels": [
+      {
+        "title": "Size",
+        "value": "215/55 R18"
+      },
+      {
+        "title": "Alloy Wheels",
+        "value": "East Derry 18\""
+      }
+    ],
+    "charging": [
+      {
+        "title": "Useable Battery",
+        "value": "58 kWh"
+      },
+      {
+        "title": "Max Charging Speed",
+        "value": "100 kW"
+      },
+      {
+        "title": "Connector",
+        "value": ["Type 2", "CCS"]
+      }
+    ]
+  }
+},
+{
+  "id": 2,
+  "make": "Hyundai",
+  "name": "Ioniq Premium 38kWh",
+  "capacity": 38.0,
+  "price": 419,
+  "range": 155,
+  "speed": 9.7,
+  "power": 100,
+  "torque": 218,
+  "battery": 38.0,
+  "drive": "front",
+  "max_charging_speed": 50,
+  "image": "Ioniq38_1.jpg",
+  "features": {
+    "lights": [
+      {
+        "title": "LED Front Lights",
+        "value": true
+      },
+      {
+        "title": "LED Rear Lights",
+        "value": true
+      },
+      {
+        "title": "LED Daytime Running Lights",
+        "value": true
+      }
+    ],
+    "interior": [
+      {
+        "title": "Seat Material",
+        "value": ["Cloth"]
+      },
+      {
+        "title": "Steering Wheel",
+        "value": ["Leather"]
+      },
+      {
+        "title": "Heated Steering Wheel",
+        "value": true
+      },
+      {
+        "title": "Electric Windows Front",
+        "value": true
+      },
+      {
+        "title": "Electric Windows Rear",
+        "value": true
+      },
+      {
+        "title": "Driver Armrest",
+        "value": true
+      },
+      {
+        "title": "Passenger Armrest",
+        "value": false
+      },
+      {
+        "title": "Centre Console Storage",
+        "value": true
+      },
+      {
+        "title": "Seat Height Adjustment Driver",
+        "value": "Manual"
+      },
+      {
+        "title": "Seat Height Adjustment Passenger",
+        "value": "Manual"
+      },
+      {
+        "title": "Split-folding Rear Seats",
+        "value": true
+      },
+      {
+        "title": "Isofix",
+        "value": true
+      },
+      {
+        "title": "Air Conditioning",
+        "value": "Dual Zone Climate Control"
+      },
+      {
+        "title": "Welcome Light",
+        "value": false
+      },
+      {
+        "title": "Anti-theft Alarm",
+        "value": false
+      },
+      {
+        "title": "Electric Foldable Mirrors",
+        "value": true
+      },
+      {
+        "title": "Heated Seats",
+        "value": true
+      },
+      {
+        "title": "Keyless Entry",
+        "value": true
+      }
+    ],
+    "connectivity": [
+      {
+        "title": "DAB Radio",
+        "value": true
+      },
+      {
+        "title": "Built-in Satnav",
+        "value": true
+      },
+      {
+        "title": "Phone App",
+        "value": true
+      },
+      {
+        "title": "Wireless Phone Charger",
+        "value": true
+      },
+      {
+        "title": "USB Ports",
+        "value": true
+      },
+      {
+        "title": "Emergency Call System",
+        "value": true
+      }
+    ],
+    "driver_assist": [
+      {
+        "title": "Automatic Emergency Braking",
+        "value": true
+      },
+      {
+        "title": "Tyre Pressure Monitor",
+        "value": true
+      },
+      {
+        "title": "Automatic Wipers",
+        "value": true
+      },
+      {
+        "title": "Cruise Control",
+        "value": "Adaptive (ACC)"
+      },
+      {
+        "title": "Lane Keep Assist",
+        "value": true
+      },
+      {
+        "title": "Lane Follow Assist",
+        "value": false
+      },
+      {
+        "title": "Parking Sensors Front",
+        "value": false
+      },
+      {
+        "title": "Parking Sensors Rear",
+        "value": true
+      },
+      {
+        "title": "Rearview Camera",
+        "value": true
+      },
+      {
+        "title": "Blind Spot Monitoring",
+        "value": false
+      },
+      {
+        "title": "Auto-dimming Rearview Mirror",
+        "value": true
+      }
+    ],
+    "wheels": [
+      {
+        "title": "Size",
+        "value": "16 inches"
+      },
+      {
+        "title": "Alloy Wheels",
+        "value": true
+      }
+    ],
+    "charging": [
+      {
+        "title": "Useable Battery",
+        "value": "38 kWh"
+      },
+      {
+        "title": "Max Charging Speed",
+        "value": "50 kW"
+      },
+      {
+        "title": "Connector",
+        "value": ["Type 2", "CCS"]
+      }
+    ]
+  }
+},
+{
+  "id": 3,
+  "make": "Volkswagen",
+  "name": "e-up",
+  "capacity": 32.3,
+  "price": 339,
+  "range": 125,
+  "speed": 11.9,
+  "power": 61,
+  "torque": 155,
+  "battery": 32.3,
+  "drive": "front",
+  "max_charging_speed": 40,
+  "image": "eup_1.jpg",
+  "features": {
+    "lights": [
+      {
+        "title": "LED Front Lights",
+        "value": false
+      },
+      {
+        "title": "LED Rear Lights",
+        "value": false
+      },
+      {
+        "title": "LED Daytime Running Lights",
+        "value": true
+      }
+    ],
+    "interior": [
+      {
+        "title": "Seat Material",
+        "value": ["Cloth"]
+      },
+      {
+        "title": "Steering Wheel",
+        "value": ["Leather"]
+      },
+      {
+        "title": "Heated Steering Wheel",
+        "value": false
+      },
+      {
+        "title": "Electric Windows Front",
+        "value": true
+      },
+      {
+        "title": "Electric Windows Rear",
+        "value": false
+      },
+      {
+        "title": "Driver Armrest",
+        "value": false
+      },
+      {
+        "title": "Passenger Armrest",
+        "value": false
+      },
+      {
+        "title": "Centre Console Storage",
+        "value": false
+      },
+      {
+        "title": "Seat Height Adjustment Driver",
+        "value": true
+      },
+      {
+        "title": "Seat Height Adjustment Passenger",
+        "value": true
+      },
+      {
+        "title": "Split-folding Rear Seats",
+        "value": true
+      },
+      {
+        "title": "Isofix",
+        "value": true
+      },
+      {
+        "title": "Air Conditioning",
+        "value": "Dual Zone Climate Control"
+      },
+      {
+        "title": "Welcome Light",
+        "value": "Manual"
+      },
+      {
+        "title": "Anti-theft Alarm",
+        "value": false
+      },
+      {
+        "title": "Electric Foldable Mirrors",
+        "value": false
+      },
+      {
+        "title": "Heated Seats",
+        "value": true
+      },
+      {
+        "title": "Keyless Entry",
+        "value": false
+      }
+    ],
+    "connectivity": [
+      {
+        "title": "DAB Radio",
+        "value": true
+      },
+      {
+        "title": "Built-in Satnav",
+        "value": true
+      },
+      {
+        "title": "Phone App",
+        "value": true
+      },
+      {
+        "title": "Wireless Phone Charger",
+        "value": false
+      },
+      {
+        "title": "USB Ports",
+        "value": true
+      },
+      {
+        "title": "Emergency Call System",
+        "value": false
+      }
+    ],
+    "driver_assist": [
+      {
+        "title": "Automatic Emergency Braking",
+        "value": false
+      },
+      {
+        "title": "Tyre Pressure Monitor",
+        "value": true
+      },
+      {
+        "title": "Automatic Wipers",
+        "value": true
+      },
+      {
+        "title": "Cruise Control",
+        "value": true
+      },
+      {
+        "title": "Lane Keep Assist",
+        "value": true
+      },
+      {
+        "title": "Lane Follow Assist",
+        "value": false
+      },
+      {
+        "title": "Parking Sensors Front",
+        "value": false
+      },
+      {
+        "title": "Parking Sensors Rear",
+        "value": true
+      },
+      {
+        "title": "Rearview Camera",
+        "value": true
+      },
+      {
+        "title": "Blind Spot Monitoring",
+        "value": false
+      },
+      {
+        "title": "Auto-dimming Rearview Mirror",
+        "value": false
+      }
+    ],
+    "wheels": [
+      {
+        "title": "Size",
+        "value": "165/65 R15"
+      },
+      {
+        "title": "Alloy Wheels",
+        "value": "Tezzle 15 inch"
+      }
+    ],
+    "charging": [
+      {
+        "title": "Useable Battery",
+        "value": "32.3 kWh"
+      },
+      {
+        "title": "Max Charging Speed",
+        "value": "40 kW"
+      },
+      {
+        "title": "Connector",
+        "value": ["Type 2", "CCS"]
+      }
+    ]
+  }
+},
+{
+  "id": 4,
+  "make": "Renault",
+  "name": "Zoe ZE50 Iconic R135",
+  "capacity": 52,
+  "price": 389,
+  "range": 190,
+  "speed": 9.5,
+  "power": 100,
+  "torque": 181,
+  "battery": 52,
+  "drive": "front",
+  "max_charging_speed": 50,
+  "image": "ZoeIconic_1.jpg",
+  "features": {
+    "lights": [
+      {
+        "title": "LED Front Lights",
+        "value": true
+      },
+      {
+        "title": "LED Rear Lights",
+        "value": true
+      },
+      {
+        "title": "LED Daytime Running Lights",
+        "value": true
+      }
+    ],
+    "interior": [
+      {
+        "title": "Seat Material",
+        "value": ["Cloth"]
+      },
+      {
+        "title": "Steering Wheel",
+        "value": ["Synthetic Leather"]
+      },
+      {
+        "title": "Heated Steering Wheel",
+        "value": false
+      },
+      {
+        "title": "Electric Windows Front",
+        "value": true
+      },
+      {
+        "title": "Electric Windows Rear",
+        "value": true
+      },
+      {
+        "title": "Driver Armrest",
+        "value": false
+      },
+      {
+        "title": "Passenger Armrest",
+        "value": false
+      },
+      {
+        "title": "Centre Console Storage",
+        "value": false
+      },
+      {
+        "title": "Seat Height Adjustment Driver",
+        "value": false
+      },
+      {
+        "title": "Seat Height Adjustment Passenger",
+        "value": false
+      },
+      {
+        "title": "Split-folding Rear Seats",
+        "value": true
+      },
+      {
+        "title": "Isofix",
+        "value": true
+      },
+      {
+        "title": "Air Conditioning",
+        "value": "Automatic Climate Control"
+      },
+      {
+        "title": "Welcome Light",
+        "value": false
+      },
+      {
+        "title": "Anti-theft Alarm",
+        "value": false
+      },
+      {
+        "title": "Electric Foldable Mirrors",
+        "value": false
+      },
+      {
+        "title": "Heated Seats",
+        "value": false
+      },
+      {
+        "title": "Keyless Entry",
+        "value": true
+      }
+    ],
+    "connectivity": [
+      {
+        "title": "DAB Radio",
+        "value": true
+      },
+      {
+        "title": "Built-in Satnav",
+        "value": true
+      },
+      {
+        "title": "Phone App",
+        "value": true
+      },
+      {
+        "title": "Wireless Phone Charger",
+        "value": true
+      },
+      {
+        "title": "USB Ports",
+        "value": true
+      },
+      {
+        "title": "Emergency Call System",
+        "value": false
+      }
+    ],
+    "driver_assist": [
+      {
+        "title": "Automatic Emergency Braking",
+        "value": false
+      },
+      {
+        "title": "Tyre Pressure Monitor",
+        "value": true
+      },
+      {
+        "title": "Automatic Wipers",
+        "value": true
+      },
+      {
+        "title": "Cruise Control",
+        "value": true
+      },
+      {
+        "title": "Lane Keep Assist",
+        "value": true
+      },
+      {
+        "title": "Lane Follow Assist",
+        "value": false
+      },
+      {
+        "title": "Parking Sensors Front",
+        "value": false
+      },
+      {
+        "title": "Parking Sensors Rear",
+        "value": true
+      },
+      {
+        "title": "Rearview Camera",
+        "value": false
+      },
+      {
+        "title": "Blind Spot Monitoring",
+        "value": false
+      },
+      {
+        "title": "Auto-dimming Rearview Mirror",
+        "value": true
+      }
+    ],
+    "wheels": [
+      {
+        "title": "Size",
+        "value": "16 inches"
+      },
+      {
+        "title": "Alloy Wheels",
+        "value": true
+      }
+    ],
+    "charging": [
+      {
+        "title": "Useable Battery",
+        "value": "52 kWh"
+      },
+      {
+        "title": "Max Charging Speed",
+        "value": "50 kW"
+      },
+      {
+        "title": "Connector",
+        "value": ["Type 2", "CCS"]
+      }
+    ]
+  }
+},
+{
+  "id": 5,
+  "make": "Renault",
+  "name": "Zoe ZE50 GT Line R135",
+  "capacity": 52,
+  "price": 399,
+  "range": 190,
+  "speed": 9.5,
+  "power": 100,
+  "torque": 181,
+  "battery": 52,
+  "drive": "front",
+  "max_charging_speed": 50,
+  "image": "ZoeGT_1.jpg",
+  "features": {
+    "lights": [
+      {
+        "title": "LED Front Lights",
+        "value": true
+      },
+      {
+        "title": "LED Rear Lights",
+        "value": true
+      },
+      {
+        "title": "LED Daytime Running Lights",
+        "value": true
+      }
+    ],
+    "interior": [
+      {
+        "title": "Seat Material",
+        "value": ["Cloth", "Leather"]
+      },
+      {
+        "title": "Steering Wheel",
+        "value": ["Synthetic Leather"]
+      },
+      {
+        "title": "Heated Steering Wheel",
+        "value": false
+      },
+      {
+        "title": "Electric Windows Front",
+        "value": true
+      },
+      {
+        "title": "Electric Windows Rear",
+        "value": true
+      },
+      {
+        "title": "Driver Armrest",
+        "value": false
+      },
+      {
+        "title": "Passenger Armrest",
+        "value": false
+      },
+      {
+        "title": "Centre Console Storage",
+        "value": false
+      },
+      {
+        "title": "Seat Height Adjustment Driver",
+        "value": false
+      },
+      {
+        "title": "Seat Height Adjustment Passenger",
+        "value": false
+      },
+      {
+        "title": "Split-folding Rear Seats",
+        "value": true
+      },
+      {
+        "title": "Isofix",
+        "value": true
+      },
+      {
+        "title": "Air Conditioning",
+        "value": "Automatic Climate Control"
+      },
+      {
+        "title": "Welcome Light",
+        "value": false
+      },
+      {
+        "title": "Anti-theft Alarm",
+        "value": false
+      },
+      {
+        "title": "Electric Foldable Mirrors",
+        "value": true
+      },
+      {
+        "title": "Heated Seats",
+        "value": false
+      },
+      {
+        "title": "Keyless Entry",
+        "value": true
+      }
+    ],
+    "connectivity": [
+      {
+        "title": "DAB Radio",
+        "value": true
+      },
+      {
+        "title": "Built-in Satnav",
+        "value": true
+      },
+      {
+        "title": "Phone App",
+        "value": true
+      },
+      {
+        "title": "Wireless Phone Charger",
+        "value": true
+      },
+      {
+        "title": "USB Ports",
+        "value": true
+      },
+      {
+        "title": "Emergency Call System",
+        "value": false
+      }
+    ],
+    "driver_assist": [
+      {
+        "title": "Automatic Emergency Braking",
+        "value": "Some models"
+      },
+      {
+        "title": "Tyre Pressure Monitor",
+        "value": true
+      },
+      {
+        "title": "Automatic Wipers",
+        "value": true
+      },
+      {
+        "title": "Cruise Control",
+        "value": true
+      },
+      {
+        "title": "Lane Keep Assist",
+        "value": true
+      },
+      {
+        "title": "Lane Follow Assist",
+        "value": false
+      },
+      {
+        "title": "Parking Sensors Front",
+        "value": true
+      },
+      {
+        "title": "Parking Sensors Rear",
+        "value": true
+      },
+      {
+        "title": "Rearview Camera",
+        "value": true
+      },
+      {
+        "title": "Blind Spot Monitoring",
+        "value": true
+      },
+      {
+        "title": "Auto-dimming Rearview Mirror",
+        "value": true
+      }
+    ],
+    "wheels": [
+      {
+        "title": "Size",
+        "value": "16 inches"
+      },
+      {
+        "title": "Alloy Wheels",
+        "value": "Diamond-Cut Alloys"
+      }
+    ],
+    "charging": [
+      {
+        "title": "Useable Battery",
+        "value": "52 kWh"
+      },
+      {
+        "title": "Max Charging Speed",
+        "value": "50 kW"
+      },
+      {
+        "title": "Connector",
+        "value": ["Type 2", "CCS"]
+      }
+    ]
+  }
+},
+{
+  "id": 6,
+  "make": "Peugeot",
+  "name": "e-208 GT Line",
+  "capacity": 45,
+  "price": 449,
+  "range": 170,
+  "speed": 8.1,
+  "power": 100,
+  "torque": 192,
+  "battery": 45,
+  "drive": "front",
+  "max_charging_speed": 100,
+  "image": "e208GTLine_1.jpg",
+  "features": {
+    "lights": [
+      {
+        "title": "LED Front Lights",
+        "value": true
+      },
+      {
+        "title": "LED Rear Lights",
+        "value": true
+      },
+      {
+        "title": "LED Daytime Running Lights",
+        "value": true
+      }
+    ],
+    "interior": [
+      {
+        "title": "Seat Material",
+        "value": ["Cloth", "Synthetic Leather"]
+      },
+      {
+        "title": "Steering Wheel",
+        "value": ["Leather"]
+      },
+      {
+        "title": "Heated Steering Wheel",
+        "value": false
+      },
+      {
+        "title": "Electric Windows Front",
+        "value": true
+      },
+      {
+        "title": "Electric Windows Rear",
+        "value": true
+      },
+      {
+        "title": "Driver Armrest",
+        "value": true
+      },
+      {
+        "title": "Passenger Armrest",
+        "value": false
+      },
+      {
+        "title": "Centre Console Storage",
+        "value": true
+      },
+      {
+        "title": "Seat Height Adjustment Driver",
+        "value": true
+      },
+      {
+        "title": "Seat Height Adjustment Passenger",
+        "value": true
+      },
+      {
+        "title": "Split-folding Rear Seats",
+        "value": true
+      },
+      {
+        "title": "Isofix",
+        "value": true
+      },
+      {
+        "title": "Air Conditioning",
+        "value": "Dual-Zone Climate Control"
+      },
+      {
+        "title": "Welcome Light",
+        "value": false
+      },
+      {
+        "title": "Anti-theft Alarm",
+        "value": true
+      },
+      {
+        "title": "Electric Foldable Mirrors",
+        "value": true
+      },
+      {
+        "title": "Heated Seats",
+        "value": false
+      },
+      {
+        "title": "Keyless Entry",
+        "value": false
+      }
+    ],
+    "connectivity": [
+      {
+        "title": "DAB Radio",
+        "value": true
+      },
+      {
+        "title": "Built-in Satnav",
+        "value": false
+      },
+      {
+        "title": "Phone App",
+        "value": true
+      },
+      {
+        "title": "Wireless Phone Charger",
+        "value": true
+      },
+      {
+        "title": "USB Ports",
+        "value": true
+      },
+      {
+        "title": "Emergency Call System",
+        "value": true
+      }
+    ],
+    "driver_assist": [
+      {
+        "title": "Automatic Emergency Braking",
+        "value": true
+      },
+      {
+        "title": "Tyre Pressure Monitor",
+        "value": true
+      },
+      {
+        "title": "Automatic Wipers",
+        "value": false
+      },
+      {
+        "title": "Cruise Control",
+        "value": true
+      },
+      {
+        "title": "Lane Keep Assist",
+        "value": true
+      },
+      {
+        "title": "Lane Follow Assist",
+        "value": false
+      },
+      {
+        "title": "Parking Sensors Front",
+        "value": true
+      },
+      {
+        "title": "Parking Sensors Rear",
+        "value": true
+      },
+      {
+        "title": "Rearview Camera",
+        "value": true
+      },
+      {
+        "title": "Blind Spot Monitoring",
+        "value": false
+      },
+      {
+        "title": "Auto-dimming Rearview Mirror",
+        "value": false
+      }
+    ],
+    "wheels": [
+      {
+        "title": "Size",
+        "value": "17 inches"
+      },
+      {
+        "title": "Alloy Wheels",
+        "value": "\"Shaw\" Diamond-Cut 2-tone Alloys"
+      }
+    ],
+    "charging": [
+      {
+        "title": "Useable Battery",
+        "value": "45 kWh"
+      },
+      {
+        "title": "Max Charging Speed",
+        "value": "100 kW"
+      },
+      {
+        "title": "Connector",
+        "value": ["Type 2", "CCS"]
+      }
+    ]
+  }
+},
+{
+  "id": 7,
+  "make": "Peugeot",
+  "name": "e-208 GT",
+  "capacity": 45,
+  "price": 469,
+  "range": 170,
+  "speed": 8.1,
+  "power": 100,
+  "torque": 192,
+  "battery": 45,
+  "drive": "front",
+  "max_charging_speed": 100,
+  "image": "e208GT_1.jpg",
+  "features": {
+    "lights": [
+      {
+        "title": "LED Front Lights",
+        "value": true
+      },
+      {
+        "title": "LED Rear Lights",
+        "value": true
+      },
+      {
+        "title": "LED Daytime Running Lights",
+        "value": true
+      }
+    ],
+    "interior": [
+      {
+        "title": "Seat Material",
+        "value": ["Cloth", "Synthetic Leather"]
+      },
+      {
+        "title": "Steering Wheel",
+        "value": ["Leather"]
+      },
+      {
+        "title": "Heated Steering Wheel",
+        "value": false
+      },
+      {
+        "title": "Electric Windows Front",
+        "value": true
+      },
+      {
+        "title": "Electric Windows Rear",
+        "value": true
+      },
+      {
+        "title": "Driver Armrest",
+        "value": true
+      },
+      {
+        "title": "Passenger Armrest",
+        "value": false
+      },
+      {
+        "title": "Centre Console Storage",
+        "value": true
+      },
+      {
+        "title": "Seat Height Adjustment Driver",
+        "value": true
+      },
+      {
+        "title": "Seat Height Adjustment Passenger",
+        "value": true
+      },
+      {
+        "title": "Split-folding Rear Seats",
+        "value": true
+      },
+      {
+        "title": "Isofix",
+        "value": true
+      },
+      {
+        "title": "Air Conditioning",
+        "value": "Dual-Zone Climate Control"
+      },
+      {
+        "title": "Welcome Light",
+        "value": false
+      },
+      {
+        "title": "Anti-theft Alarm",
+        "value": true
+      },
+      {
+        "title": "Electric Foldable Mirrors",
+        "value": true
+      },
+      {
+        "title": "Heated Seats",
+        "value": false
+      },
+      {
+        "title": "Keyless Entry",
+        "value": false
+      }
+    ],
+    "connectivity": [
+      {
+        "title": "DAB Radio",
+        "value": true
+      },
+      {
+        "title": "Built-in Satnav",
+        "value": true
+      },
+      {
+        "title": "Phone App",
+        "value": true
+      },
+      {
+        "title": "Wireless Phone Charger",
+        "value": false
+      },
+      {
+        "title": "USB Ports",
+        "value": true
+      },
+      {
+        "title": "Emergency Call System",
+        "value": true
+      }
+    ],
+    "driver_assist": [
+      {
+        "title": "Automatic Emergency Braking",
+        "value": true
+      },
+      {
+        "title": "Tyre Pressure Monitor",
+        "value": true
+      },
+      {
+        "title": "Automatic Wipers",
+        "value": false
+      },
+      {
+        "title": "Cruise Control",
+        "value": true
+      },
+      {
+        "title": "Lane Keep Assist",
+        "value": true
+      },
+      {
+        "title": "Lane Follow Assist",
+        "value": false
+      },
+      {
+        "title": "Parking Sensors Front",
+        "value": true
+      },
+      {
+        "title": "Parking Sensors Rear",
+        "value": true
+      },
+      {
+        "title": "Rearview Camera",
+        "value": true
+      },
+      {
+        "title": "Blind Spot Monitoring",
+        "value": true
+      },
+      {
+        "title": "Auto-dimming Rearview Mirror",
+        "value": false
+      }
+    ],
+    "wheels": [
+      {
+        "title": "Size",
+        "value": "17 inches"
+      },
+      {
+        "title": "Alloy Wheels",
+        "value": "\"Shaw\" Diamond-Cut 2-tone Alloys"
+      }
+    ],
+    "charging": [
+      {
+        "title": "Useable Battery",
+        "value": "45 kWh"
+      },
+      {
+        "title": "Max Charging Speed",
+        "value": "100 kW"
+      },
+      {
+        "title": "Connector",
+        "value": ["Type 2", "CCS"]
+      }
+    ]
+  }
+},
+{
+  "id": 8,
+  "make": "Citroen DS3",
+  "name": "Crossback E-Tense Performance Line",
+  "capacity": 45,
+  "price": 499,
+  "range": 155,
+  "speed": 8.7,
+  "power": 100,
+  "torque": 192,
+  "battery": 45,
+  "drive": "front",
+  "max_charging_speed": 100,
+  "image": "DS3Perf_1.jpg",
+  "features": {
+    "lights": [
+      {
+        "title": "LED Front Lights",
+        "value": false
+      },
+      {
+        "title": "LED Rear Lights",
+        "value": false
+      },
+      {
+        "title": "LED Daytime Running Lights",
+        "value": true
+      }
+    ],
+    "interior": [
+      {
+        "title": "Seat Material",
+        "value": ["Cloth"]
+      },
+      {
+        "title": "Steering Wheel",
+        "value": ["Leather"]
+      },
+      {
+        "title": "Heated Steering Wheel",
+        "value": false
+      },
+      {
+        "title": "Electric Windows Front",
+        "value": true
+      },
+      {
+        "title": "Electric Windows Rear",
+        "value": true
+      },
+      {
+        "title": "Driver Armrest",
+        "value": true
+      },
+      {
+        "title": "Passenger Armrest",
+        "value": false
+      },
+      {
+        "title": "Centre Console Storage",
+        "value": true
+      },
+      {
+        "title": "Seat Height Adjustment Driver",
+        "value": true
+      },
+      {
+        "title": "Seat Height Adjustment Passenger",
+        "value": true
+      },
+      {
+        "title": "Split-folding Rear Seats",
+        "value": true
+      },
+      {
+        "title": "Isofix",
+        "value": true
+      },
+      {
+        "title": "Air Conditioning",
+        "value": true
+      },
+      {
+        "title": "Welcome Light",
+        "value": false
+      },
+      {
+        "title": "Anti-theft Alarm",
+        "value": true
+      },
+      {
+        "title": "Electric Foldable Mirrors",
+        "value": true
+      },
+      {
+        "title": "Heated Seats",
+        "value": false
+      },
+      {
+        "title": "Keyless Entry",
+        "value": false
+      }
+    ],
+    "connectivity": [
+      {
+        "title": "DAB Radio",
+        "value": true
+      },
+      {
+        "title": "Built-in Satnav",
+        "value": true
+      },
+      {
+        "title": "Phone App",
+        "value": true
+      },
+      {
+        "title": "Wireless Phone Charger",
+        "value": false
+      },
+      {
+        "title": "USB Ports",
+        "value": true
+      },
+      {
+        "title": "Emergency Call System",
+        "value": true
+      }
+    ],
+    "driver_assist": [
+      {
+        "title": "Automatic Emergency Braking",
+        "value": true
+      },
+      {
+        "title": "Tyre Pressure Monitor",
+        "value": true
+      },
+      {
+        "title": "Automatic Wipers",
+        "value": true
+      },
+      {
+        "title": "Cruise Control",
+        "value": true
+      },
+      {
+        "title": "Lane Keep Assist",
+        "value": true
+      },
+      {
+        "title": "Lane Follow Assist",
+        "value": false
+      },
+      {
+        "title": "Parking Sensors Front",
+        "value": true
+      },
+      {
+        "title": "Parking Sensors Rear",
+        "value": true
+      },
+      {
+        "title": "Rearview Camera",
+        "value": false
+      },
+      {
+        "title": "Blind Spot Monitoring",
+        "value": true
+      },
+      {
+        "title": "Auto-dimming Rearview Mirror",
+        "value": false
+      }
+    ],
+    "wheels": [
+      {
+        "title": "Size",
+        "value": "17 inches"
+      },
+      {
+        "title": "Alloy Wheels",
+        "value": "\"Dubai\" Black Onyx Alloys"
+      }
+    ],
+    "charging": [
+      {
+        "title": "Useable Battery",
+        "value": "45 kWh"
+      },
+      {
+        "title": "Max Charging Speed",
+        "value": "100 kW"
+      },
+      {
+        "title": "Connector",
+        "value": ["Type 2", "CCS"]
+      }
+    ]
+  }
+},
+{
+  "id": 9,
+  "make": "Citroen DS3",
+  "name": "Crossback E-Tense Ultra Prestige",
+  "capacity": 45,
+  "price": 519,
+  "range": 155,
+  "speed": 8.7,
+  "power": 100,
+  "torque": 192,
+  "battery": 45,
+  "drive": "front",
+  "max_charging_speed": 100,
+  "image": "DS3Pres_1.jpg",
+  "features": {
+    "lights": [
+      {
+        "title": "LED Front Lights",
+        "value": true
+      },
+      {
+        "title": "LED Rear Lights",
+        "value": true
+      },
+      {
+        "title": "LED Daytime Running Lights",
+        "value": true
+      }
+    ],
+    "interior": [
+      {
+        "title": "Seat Material",
+        "value": ["Leather"]
+      },
+      {
+        "title": "Steering Wheel",
+        "value": ["Leather"]
+      },
+      {
+        "title": "Heated Steering Wheel",
+        "value": false
+      },
+      {
+        "title": "Electric Windows Front",
+        "value": true
+      },
+      {
+        "title": "Electric Windows Rear",
+        "value": true
+      },
+      {
+        "title": "Driver Armrest",
+        "value": true
+      },
+      {
+        "title": "Passenger Armrest",
+        "value": false
+      },
+      {
+        "title": "Centre Console Storage",
+        "value": true
+      },
+      {
+        "title": "Seat Height Adjustment Driver",
+        "value": true
+      },
+      {
+        "title": "Seat Height Adjustment Passenger",
+        "value": true
+      },
+      {
+        "title": "Split-folding Rear Seats",
+        "value": true
+      },
+      {
+        "title": "Isofix",
+        "value": true
+      },
+      {
+        "title": "Air Conditioning",
+        "value": true
+      },
+      {
+        "title": "Welcome Light",
+        "value": false
+      },
+      {
+        "title": "Anti-theft Alarm",
+        "value": true
+      },
+      {
+        "title": "Electric Foldable Mirrors",
+        "value": true
+      },
+      {
+        "title": "Heated Seats",
+        "value": false
+      },
+      {
+        "title": "Keyless Entry",
+        "value": true
+      }
+    ],
+    "connectivity": [
+      {
+        "title": "DAB Radio",
+        "value": true
+      },
+      {
+        "title": "Built-in Satnav",
+        "value": true
+      },
+      {
+        "title": "Phone App",
+        "value": true
+      },
+      {
+        "title": "Wireless Phone Charger",
+        "value": false
+      },
+      {
+        "title": "USB Ports",
+        "value": true
+      },
+      {
+        "title": "Emergency Call System",
+        "value": true
+      }
+    ],
+    "driver_assist": [
+      {
+        "title": "Automatic Emergency Braking",
+        "value": true
+      },
+      {
+        "title": "Tyre Pressure Monitor",
+        "value": true
+      },
+      {
+        "title": "Automatic Wipers",
+        "value": true
+      },
+      {
+        "title": "Cruise Control",
+        "value": true
+      },
+      {
+        "title": "Lane Keep Assist",
+        "value": true
+      },
+      {
+        "title": "Lane Follow Assist",
+        "value": false
+      },
+      {
+        "title": "Parking Sensors Front",
+        "value": true
+      },
+      {
+        "title": "Parking Sensors Rear",
+        "value": true
+      },
+      {
+        "title": "Rearview Camera",
+        "value": true
+      },
+      {
+        "title": "Blind Spot Monitoring",
+        "value": true
+      },
+      {
+        "title": "Auto-dimming Rearview Mirror",
+        "value": false
+      }
+    ],
+    "wheels": [
+      {
+        "title": "Size",
+        "value": "18 inches"
+      },
+      {
+        "title": "Alloy Wheels",
+        "value": "\"KYOTO\" Diamond-Cut Alloys"
+      }
+    ],
+    "charging": [
+      {
+        "title": "Useable Battery",
+        "value": "45 kWh"
+      },
+      {
+        "title": "Max Charging Speed",
+        "value": "100 kW"
+      },
+      {
+        "title": "Connector",
+        "value": ["Type 2", "CCS"]
+      }
+    ]
+  }
+},
+{
+  "id": 10,
+  "make": "Peugeot",
+  "name": "e-2008 GT",
+  "capacity": 45,
+  "price": 539,
+  "range": 155,
+  "speed": 8.5,
+  "power": 100,
+  "torque": 192,
+  "battery": 45,
+  "drive": "front",
+  "max_charging_speed": 100,
+  "image": "e2008_1.jpg",
+  "features": {
+    "lights": [
+      {
+        "title": "LED Front Lights",
+        "value": true
+      },
+      {
+        "title": "LED Rear Lights",
+        "value": true
+      },
+      {
+        "title": "LED Daytime Running Lights",
+        "value": true
+      }
+    ],
+    "interior": [
+      {
+        "title": "Seat Material",
+        "value": ["Cloth", "Synthetic Leather"]
+      },
+      {
+        "title": "Steering Wheel",
+        "value": ["Leather"]
+      },
+      {
+        "title": "Heated Steering Wheel",
+        "value": false
+      },
+      {
+        "title": "Electric Windows Front",
+        "value": true
+      },
+      {
+        "title": "Electric Windows Rear",
+        "value": true
+      },
+      {
+        "title": "Driver Armrest",
+        "value": true
+      },
+      {
+        "title": "Passenger Armrest",
+        "value": false
+      },
+      {
+        "title": "Centre Console Storage",
+        "value": true
+      },
+      {
+        "title": "Seat Height Adjustment Driver",
+        "value": true
+      },
+      {
+        "title": "Seat Height Adjustment Passenger",
+        "value": true
+      },
+      {
+        "title": "Split-folding Rear Seats",
+        "value": true
+      },
+      {
+        "title": "Isofix",
+        "value": true
+      },
+      {
+        "title": "Air Conditioning",
+        "value": true
+      },
+      {
+        "title": "Welcome Light",
+        "value": false
+      },
+      {
+        "title": "Anti-theft Alarm",
+        "value": true
+      },
+      {
+        "title": "Electric Foldable Mirrors",
+        "value": true
+      },
+      {
+        "title": "Heated Seats",
+        "value": true
+      },
+      {
+        "title": "Keyless Entry",
+        "value": false
+      }
+    ],
+    "connectivity": [
+      {
+        "title": "DAB Radio",
+        "value": true
+      },
+      {
+        "title": "Built-in Satnav",
+        "value": true
+      },
+      {
+        "title": "Phone App",
+        "value": true
+      },
+      {
+        "title": "Wireless Phone Charger",
+        "value": true
+      },
+      {
+        "title": "USB Ports",
+        "value": true
+      },
+      {
+        "title": "Emergency Call System",
+        "value": true
+      }
+    ],
+    "driver_assist": [
+      {
+        "title": "Automatic Emergency Braking",
+        "value": false
+      },
+      {
+        "title": "Tyre Pressure Monitor",
+        "value": true
+      },
+      {
+        "title": "Automatic Wipers",
+        "value": true
+      },
+      {
+        "title": "Cruise Control",
+        "value": true
+      },
+      {
+        "title": "Lane Keep Assist",
+        "value": true
+      },
+      {
+        "title": "Lane Follow Assist",
+        "value": false
+      },
+      {
+        "title": "Parking Sensors Front",
+        "value": true
+      },
+      {
+        "title": "Parking Sensors Rear",
+        "value": true
+      },
+      {
+        "title": "Rearview Camera",
+        "value": true
+      },
+      {
+        "title": "Blind Spot Monitoring",
+        "value": true
+      },
+      {
+        "title": "Auto-dimming Rearview Mirror",
+        "value": true
+      }
+    ],
+    "wheels": [
+      {
+        "title": "Size",
+        "value": "17 inches"
+      },
+      {
+        "title": "Alloy Wheels",
+        "value": "\"SALAMANCA\" Diamond-Cut Alloys"
+      }
+    ],
+    "charging": [
+      {
+        "title": "Useable Battery",
+        "value": "45 kWh"
+      },
+      {
+        "title": "Max Charging Speed",
+        "value": "100 kW"
+      },
+      {
+        "title": "Connector",
+        "value": ["Type 2", "CCS"]
+      }
+    ]
+  }
+},
+{
+  "id": 11,
+  "make": "Hyundai",
+  "name": "Kona Premium SE",
+  "capacity": 45,
+  "price": 559,
+  "range": 155,
+  "speed": 8.5,
+  "power": 100,
+  "torque": 192,
+  "battery": 45,
+  "drive": "front",
+  "max_charging_speed": 100,
+  "image": "KonaPremiumSE_1.jpg",
+  "features": {
+    "lights": [
+      {
+        "title": "LED Front Lights",
+        "value": true
+      },
+      {
+        "title": "LED Rear Lights",
+        "value": true
+      },
+      {
+        "title": "LED Daytime Running Lights",
+        "value": true
+      }
+    ],
+    "interior": [
+      {
+        "title": "Seat Material",
+        "value": ["Cloth", "Synthetic Leather"]
+      },
+      {
+        "title": "Steering Wheel",
+        "value": ["Leather"]
+      },
+      {
+        "title": "Heated Steering Wheel",
+        "value": false
+      },
+      {
+        "title": "Electric Windows Front",
+        "value": true
+      },
+      {
+        "title": "Electric Windows Rear",
+        "value": true
+      },
+      {
+        "title": "Driver Armrest",
+        "value": true
+      },
+      {
+        "title": "Passenger Armrest",
+        "value": false
+      },
+      {
+        "title": "Centre Console Storage",
+        "value": true
+      },
+      {
+        "title": "Seat Height Adjustment Driver",
+        "value": true
+      },
+      {
+        "title": "Seat Height Adjustment Passenger",
+        "value": true
+      },
+      {
+        "title": "Split-folding Rear Seats",
+        "value": true
+      },
+      {
+        "title": "Isofix",
+        "value": true
+      },
+      {
+        "title": "Air Conditioning",
+        "value": true
+      },
+      {
+        "title": "Welcome Light",
+        "value": false
+      },
+      {
+        "title": "Anti-theft Alarm",
+        "value": true
+      },
+      {
+        "title": "Electric Foldable Mirrors",
+        "value": true
+      },
+      {
+        "title": "Heated Seats",
+        "value": true
+      },
+      {
+        "title": "Keyless Entry",
+        "value": false
+      }
+    ],
+    "connectivity": [
+      {
+        "title": "DAB Radio",
+        "value": true
+      },
+      {
+        "title": "Built-in Satnav",
+        "value": true
+      },
+      {
+        "title": "Phone App",
+        "value": true
+      },
+      {
+        "title": "Wireless Phone Charger",
+        "value": true
+      },
+      {
+        "title": "USB Ports",
+        "value": true
+      },
+      {
+        "title": "Emergency Call System",
+        "value": true
+      }
+    ],
+    "driver_assist": [
+      {
+        "title": "Automatic Emergency Braking",
+        "value": false
+      },
+      {
+        "title": "Tyre Pressure Monitor",
+        "value": true
+      },
+      {
+        "title": "Automatic Wipers",
+        "value": true
+      },
+      {
+        "title": "Cruise Control",
+        "value": true
+      },
+      {
+        "title": "Lane Keep Assist",
+        "value": true
+      },
+      {
+        "title": "Lane Follow Assist",
+        "value": false
+      },
+      {
+        "title": "Parking Sensors Front",
+        "value": true
+      },
+      {
+        "title": "Parking Sensors Rear",
+        "value": true
+      },
+      {
+        "title": "Rearview Camera",
+        "value": true
+      },
+      {
+        "title": "Blind Spot Monitoring",
+        "value": true
+      },
+      {
+        "title": "Auto-dimming Rearview Mirror",
+        "value": true
+      }
+    ],
+    "wheels": [
+      {
+        "title": "Size",
+        "value": "17 inches"
+      },
+      {
+        "title": "Alloy Wheels",
+        "value": "\"SALAMANCA\" Diamond-Cut Alloys"
+      }
+    ],
+    "charging": [
+      {
+        "title": "Useable Battery",
+        "value": "45 kWh"
+      },
+      {
+        "title": "Max Charging Speed",
+        "value": "100 kW"
+      },
+      {
+        "title": "Connector",
+        "value": ["Type 2", "CCS"]
+      }
+    ]
+  }
+}
+]
