@@ -33,9 +33,7 @@ const Options = ({ hidden }) => {
                     <span className="text-center font-bold uppercase text-sm mb-2 mt-4">Safety</span>
                     <Option title="Automatic Emergency Braking" callback={toggleOption} />
                     <Option title="Lane Keep Assist" callback={toggleOption} />
-                    <Option title="Tyre Pressure Monitor" callback={toggleOption} />
                     <Option title="Parking Sensors Front" callback={toggleOption} />
-                    <Option title="Parking Sensors Rear" callback={toggleOption} />
                     <Option title="Rearview Camera" callback={toggleOption} />
                     <Option title="Blind Spot Monitoring" callback={toggleOption} />
                     <Option title="Anti-theft Alarm" callback={toggleOption} />
@@ -52,7 +50,6 @@ const Options = ({ hidden }) => {
                     <Option title="LED Rear Lights" callback={toggleOption} />
                     <Option title="LED Daytime Running Lights" callback={toggleOption} />
                     <Option title="Electric Foldable Mirrors" callback={toggleOption} />
-                    <Option title="Alloy Wheels" callback={toggleOption} />
                     <button onClick={() => dispatch(resetOptions())} className="mt-2 bg-gray-200 rounded-lg py-2 px-4 m-auto text-sm">Reset Options</button>
                 </div>
             </div>
