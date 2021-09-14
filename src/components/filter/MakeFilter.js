@@ -6,9 +6,10 @@ const MakeFilter = () => {
     const cars = useSelector(state => state.cars);
     const filter = useSelector(state => state.filter);
     const dispatch = useDispatch();
+    const allManufacturers = [...filter.manufacturers];
 
-    const uniqueMakes = [...new Set(cars.map(car => car.make))];
-    const options = uniqueMakes.map(make => <option key={make} value={make}>{make}</option>);
+    //const uniqueMakes = [...new Set(cars.map(car => car.make))];
+    const options = allManufacturers.map(make => <option key={make} value={make}>{make}</option>);
 
     return (
         <div className="text-sm border bg-gray-100 border-gray-400 py-4 px-6 m-2 rounded-lg">

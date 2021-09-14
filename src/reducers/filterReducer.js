@@ -7,7 +7,8 @@ const initialState = {
     "options" : [],
     "connector": ["Type 2", "CCS", "CHAdeMO"],
     "seat_material": ["Cloth", "Leather", "Synthetic Leather"],
-    "steering_wheel_material": ["Leather", "Synthetic Leather"]
+    "steering_wheel_material": ["Leather", "Synthetic Leather"],
+    "manufacturers": ["Audi", "Citroen DS3", "Hyundai", "Jaguar", "Peugeot", "Renault", "Tesla", "Volkswagen"]
 };
 
 const removeOption = (state, optionName) => {
@@ -34,6 +35,12 @@ const removeConnector = (state, type) => {
     return {...state, "connector": newConnectors};
 }
 
+const removeManufacturer = (state, manufacturer) => {
+    const newManufacturers = state.manufacturers.filter(make => make !== manufacturer);
+
+    return {...state, "manufacturers": newManufacturers};
+}
+
 const resetFilters = (state, action) => {
     return {...initialState, "options": state.options };
 }
@@ -41,6 +48,7 @@ const resetFilters = (state, action) => {
 const resetOptions = (state, action) => {
     return {...state, "options": [] };
 }
+
 
 const filterReducer = (state = initialState, action) => {
     switch(action.type) {
@@ -76,6 +84,10 @@ const filterReducer = (state = initialState, action) => {
             return {...state, "steering_wheel_material": [...state.steering_wheel_material, action.payload]};
         case 'FILTER_REMOVE_SW_MATERIAL':
             return removeSteeringWheelMaterial(state, action.payload);
+        case 'FILTER_REMOVE_MANUFACTURER':
+            return removeManufacturer(state, action.payload);
+        case 'FILTER_ADD_MANUFACTURER':
+            return {...state, "manufacturers": [...state.manufacturers, action.payload]};
         default:
             return state;
     }

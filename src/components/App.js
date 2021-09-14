@@ -7,6 +7,7 @@ import MainFilter from "./MainFilter";
 import Options from "./Options";
 import Connectors from "./Connectors";
 import Materials from "./Materials";
+import Manufacturer from "./Manufacturer";
 
 const App = () => {
   const [hidden, setHidden] = useState(false);
@@ -40,6 +41,7 @@ const App = () => {
                 <div className={`text-center mt-6 md:w-2/5 lg:w-1/3 xl:w-1/4 md:mx-4 ${ hidden ? 'hidden' : ''}`}>
                     <Connectors hidden={hidden} />
                     <Materials hidden={hidden} />
+                    <Manufacturer hidden={hidden} />
                 </div>
             </div>
             <div className="md:flex md:flex-wrap md:items-start justify-center mt-2">

@@ -19,7 +19,8 @@ const CarList = ({ callback }) => {
                 car.battery >= filter.min_battery &&
                 car.features.charging.Connector.some(type => filter.connector.includes(type)) &&
                 car.features.interior["Seat Material"].some(material => filter.seat_material.includes(material)) &&
-                car.features.interior["Steering Wheel"].some(material => filter.steering_wheel_material.includes(material))
+                car.features.interior["Steering Wheel"].some(material => filter.steering_wheel_material.includes(material)) &&
+                filter.manufacturers.includes(car.make)
             )
         })
         .filter(car => {

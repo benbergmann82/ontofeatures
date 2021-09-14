@@ -113,3 +113,18 @@ export const removeSteeringWheelMaterial = (type) => {
         payload: type
     }
 }
+
+export const removeManufacturer = (manufacturer) => {
+    return {
+        type: 'FILTER_REMOVE_MANUFACTURER',
+        payload: manufacturer
+    }
+}
+
+export const addManufacturer = (manufacturer) => {
+    return {
+        type: 'FILTER_ADD_MANUFACTURER',
+        payload: manufacturer
+    }
+}
+
