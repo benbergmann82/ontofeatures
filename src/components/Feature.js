@@ -1,6 +1,9 @@
 import React from 'react';
-import { ReactComponent as Cross } from '../svg/cross.svg';
-import { ReactComponent as Check } from '../svg/check.svg';
+// import { ReactComponent as Cross } from '../svg/cross.svg';
+// import { ReactComponent as Check } from '../svg/check.svg';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faCheck } from '@fortawesome/free-solid-svg-icons';
+import { faTimes } from '@fortawesome/free-solid-svg-icons';
 
 const Feature = ({name, features}) => {
     const items = Object.keys(features).map(title => {
@@ -8,7 +11,7 @@ const Feature = ({name, features}) => {
             return (
                 <div className="flex justify-between py-1 even:bg-gray-200">
                     <div>{title}</div>
-                    <div>{features[title] ? <Check /> : <Cross />}</div>
+                    <div>{features[title] ? <FontAwesomeIcon icon={faCheck} /> : <FontAwesomeIcon icon={faTimes} /> }</div>
                 </div>
             )
         } else {
