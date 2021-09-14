@@ -37,7 +37,9 @@
       "Anti-theft Alarm": true,
       "Electric Foldable Mirrors": true,
       "Heated Seats": true,
-      "Keyless Entry": false
+      "Keyless Entry": false,
+      "Sunroof": false,
+      "Panoramic Glass Roof": false
     },
     "connectivity": {
       "DAB Radio": true,
@@ -113,7 +115,9 @@
       "Anti-theft Alarm": false,
       "Electric Foldable Mirrors": true,
       "Heated Seats": true,
-      "Keyless Entry": true
+      "Keyless Entry": true,
+      "Sunroof": false,
+      "Panoramic Glass Roof": false
     },
     "connectivity": {
       "DAB Radio": true,
@@ -189,7 +193,9 @@
       "Anti-theft Alarm": false,
       "Electric Foldable Mirrors": false,
       "Heated Seats": true,
-      "Keyless Entry": false
+      "Keyless Entry": false,
+      "Sunroof": false,
+      "Panoramic Glass Roof": false
     },
     "connectivity": {
       "DAB Radio": true,
@@ -265,7 +271,9 @@
       "Anti-theft Alarm": false,
       "Electric Foldable Mirrors": false,
       "Heated Seats": false,
-      "Keyless Entry": true
+      "Keyless Entry": true,
+      "Sunroof": false,
+      "Panoramic Glass Roof": false
     },
     "connectivity": {
       "DAB Radio": true,
@@ -341,7 +349,9 @@
       "Anti-theft Alarm": false,
       "Electric Foldable Mirrors": true,
       "Heated Seats": false,
-      "Keyless Entry": true
+      "Keyless Entry": true,
+      "Sunroof": false,
+      "Panoramic Glass Roof": false
     },
     "connectivity": {
       "DAB Radio": true,
@@ -417,7 +427,9 @@
       "Anti-theft Alarm": true,
       "Electric Foldable Mirrors": true,
       "Heated Seats": false,
-      "Keyless Entry": false
+      "Keyless Entry": false,
+      "Sunroof": false,
+      "Panoramic Glass Roof": false
     },
     "connectivity": {
       "DAB Radio": true,
@@ -492,7 +504,9 @@
       "Anti-theft Alarm": true,
       "Electric Foldable Mirrors": true,
       "Heated Seats": false,
-      "Keyless Entry": false
+      "Keyless Entry": false,
+      "Sunroof": false,
+      "Panoramic Glass Roof": false
     },
     "connectivity": {
       "DAB Radio": true,
@@ -567,7 +581,9 @@
       "Anti-theft Alarm": true,
       "Electric Foldable Mirrors": true,
       "Heated Seats": false,
-      "Keyless Entry": false
+      "Keyless Entry": false,
+      "Sunroof": false,
+      "Panoramic Glass Roof": false
     },
     "connectivity": {
       "DAB Radio": true,
@@ -642,7 +658,9 @@
       "Anti-theft Alarm": true,
       "Electric Foldable Mirrors": true,
       "Heated Seats": false,
-      "Keyless Entry": true
+      "Keyless Entry": true,
+      "Sunroof": false,
+      "Panoramic Glass Roof": false
     },
     "connectivity": {
       "DAB Radio": true,
@@ -717,7 +735,9 @@
       "Anti-theft Alarm": true,
       "Electric Foldable Mirrors": true,
       "Heated Seats": true,
-      "Keyless Entry": false
+      "Keyless Entry": false,
+      "Sunroof": false,
+      "Panoramic Glass Roof": false
     },
     "connectivity": {
       "DAB Radio": true,
@@ -792,7 +812,9 @@
       "Anti-theft Alarm": true,
       "Electric Foldable Mirrors": true,
       "Heated Seats": true,
-      "Keyless Entry": true
+      "Keyless Entry": true,
+      "Sunroof": false,
+      "Panoramic Glass Roof": false
     },
     "connectivity": {
       "DAB Radio": true,
@@ -867,7 +889,9 @@
       "Anti-theft Alarm": true,
       "Electric Foldable Mirrors": true,
       "Heated Seats": true,
-      "Keyless Entry": true
+      "Keyless Entry": true,
+      "Sunroof": true,
+      "Panoramic Glass Roof": false
     },
     "connectivity": {
       "DAB Radio": true,
@@ -942,7 +966,9 @@
       "Anti-theft Alarm": true,
       "Electric Foldable Mirrors": true,
       "Heated Seats": true,
-      "Keyless Entry": false
+      "Keyless Entry": false,
+      "Sunroof": false,
+      "Panoramic Glass Roof": true
     },
     "connectivity": {
       "DAB Radio": true,
@@ -1017,7 +1043,9 @@
       "Anti-theft Alarm": true,
       "Electric Foldable Mirrors": true,
       "Heated Seats": true,
-      "Keyless Entry": false
+      "Keyless Entry": false,
+      "Sunroof": false,
+      "Panoramic Glass Roof": true
     },
     "connectivity": {
       "DAB Radio": true,
@@ -1092,7 +1120,9 @@
       "Anti-theft Alarm": true,
       "Electric Foldable Mirrors": true,
       "Heated Seats": true,
-      "Keyless Entry": true
+      "Keyless Entry": true,
+      "Sunroof": false,
+      "Panoramic Glass Roof": true
     },
     "connectivity": {
       "DAB Radio": true,
@@ -1167,7 +1197,9 @@
       "Anti-theft Alarm": true,
       "Electric Foldable Mirrors": true,
       "Heated Seats": true,
-      "Keyless Entry": true
+      "Keyless Entry": true,
+      "Sunroof": false,
+      "Panoramic Glass Roof": false
     },
     "connectivity": {
       "DAB Radio": true,
@@ -1242,7 +1274,9 @@
       "Anti-theft Alarm": true,
       "Electric Foldable Mirrors": true,
       "Heated Seats": true,
-      "Keyless Entry": true
+      "Keyless Entry": true,
+      "Sunroof": false,
+      "Panoramic Glass Roof": true
     },
     "connectivity": {
       "DAB Radio": true,

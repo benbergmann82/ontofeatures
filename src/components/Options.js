@@ -28,6 +28,8 @@ const Options = ({ hidden }) => {
                     <Option title="Seat Height Adjustment Driver" callback={toggleOption} />
                     <Option title="Auto-dimming Rearview Mirror" callback={toggleOption} />
                     <Option title="Lane Follow Assist" callback={toggleOption} />
+                    <Option title="Panoramic Glass Roof" callback={toggleOption} />
+                    <Option title="Sunroof" callback={toggleOption} />
                     <span className="text-center font-bold uppercase text-sm mb-2 mt-4">Safety</span>
                     <Option title="Automatic Emergency Braking" callback={toggleOption} />
                     <Option title="Lane Keep Assist" callback={toggleOption} />
