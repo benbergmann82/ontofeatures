@@ -8,7 +8,7 @@ const initialState = {
     "connector": ["Type 2", "CCS", "CHAdeMO"],
     "seat_material": ["Cloth", "Leather", "Synthetic Leather", "Microfleece"],
     "steering_wheel_material": ["Leather", "Synthetic Leather"],
-    "manufacturers": ["Audi", "Citroen DS3", "Hyundai", "Jaguar", "Peugeot", "Renault", "Tesla", "Volkswagen"]
+    "manufacturers": ["Audi", "Citroen", "Citroen DS3", "Hyundai", "Jaguar", "Peugeot", "Renault", "Tesla", "Volkswagen"]
 };
 
 const removeOption = (state, optionName) => {

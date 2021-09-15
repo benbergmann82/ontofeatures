@@ -1313,5 +1313,83 @@
 
     }
   }
+},
+{
+  "id": 18,
+  "make": "Citroen",
+  "name": "e-C4 Shine Plus",
+  "capacity": 50.0,
+  "price": 499,
+  "range": 155,
+  "speed": 9.7,
+  "power": 100,
+  "torque": 192,
+  "battery": 50.0,
+  "drive": "front",
+  "max_charging_speed": 100,
+  "image": "CitroenEC4_1.jpg",
+  "features": {
+    "lights": {
+      "LED Front Lights": true,
+      "LED Rear Lights": true,
+      "LED Daytime Running Lights": true
+    },
+    "interior": {
+      "Seat Material": ["Leather", "Cloth"],
+      "Steering Wheel": ["Leather"],
+      "Heated Steering Wheel": true,
+      "Electric Windows Front": true,
+      "Electric Windows Rear": true,
+      "Driver Armrest": true,
+      "Passenger Armrest": false,
+      "Centre Console Storage": true,
+      "Seat Height Adjustment Driver": true,
+      "Seat Height Adjustment Passenger": true,
+      "Split-folding Rear Seats": true,
+      "Isofix": "No information",
+      "Air Conditioning": "Dual Zone Climate Control",
+      "Welcome Light": true,
+      "Anti-theft Alarm": true,
+      "Electric Foldable Mirrors": true,
+      "Heated Seats": true,
+      "Keyless Entry": true,
+      "Sunroof": false,
+      "Panoramic Glass Roof": false
+    },
+    "connectivity": {
+      "DAB Radio": true,
+      "Built-in Satnav": true,
+      "Phone App": true,
+      "Wireless Phone Charger": true,
+      "USB Ports": true,
+      "Emergency Call System": true,
+      "Android Auto": true,
+      "Apple CarPlay": true
+    },
+    "driver_assist": {
+      "Automatic Emergency Braking": true,
+      "Tyre Pressure Monitor": true,
+      "Automatic Wipers": true,
+      "Cruise Control": "Adaptive (ACC)",
+      "Adaptive Cruise Control": true,
+      "Lane Keep Assist": true,
+      "Lane Follow Assist": true,
+      "Parking Sensors Front": true,
+      "Parking Sensors Rear": true,
+      "Rearview Camera": true,
+      "Blind Spot Monitoring": true,
+      "Auto-dimming Rearview Mirror": true
+    },
+    "wheels": {
+      "Size": "18 Inches",
+      "Alloy Wheels": "Diamond-cut Crosslight Alloys"
+    },
+    "charging": {
+      "Useable Battery": "50 kWh",
+      "Max Charging Speed": "100 kW",
+      "Connector": ["Type 2", "CCS"]
+
+    }
+  }
 }
 ]
