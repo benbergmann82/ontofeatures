@@ -3,7 +3,6 @@ import { useSelector, useDispatch } from 'react-redux';
 import { changeCarMake } from '../../actions';
 
 const MakeFilter = () => {
-    const cars = useSelector(state => state.cars);
     const filter = useSelector(state => state.filter);
     const dispatch = useDispatch();
     const allManufacturers = [...filter.manufacturers];

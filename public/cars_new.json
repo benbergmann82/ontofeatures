@@ -32,7 +32,7 @@
       "Seat Height Adjustment Passenger": "Manual",
       "Split-folding Rear Seats": true,
       "Isofix": true,
-      "Air Conditioning": "One Zone Climate Control",
+      "Air Conditioning": "1-Zone Climate Control",
       "Welcome Light": true,
       "Anti-theft Alarm": true,
       "Electric Foldable Mirrors": true,
@@ -52,9 +52,9 @@
       "Apple CarPlay": true
     },
     "driver_assist": {
+      "Automatic Wipers": true,
       "Automatic Emergency Braking": true,
       "Tyre Pressure Monitor": true,
-      "Automatic Wipers": true,
       "Cruise Control": "Adaptive (ACC)",
       "Adaptive Cruise Control": true,
       "Lane Keep Assist": true,
@@ -110,7 +110,7 @@
       "Seat Height Adjustment Passenger": "Manual",
       "Split-folding Rear Seats": true,
       "Isofix": true,
-      "Air Conditioning": "Dual Zone Climate Control",
+      "Air Conditioning": "2-Zone Climate Control",
       "Welcome Light": false,
       "Anti-theft Alarm": false,
       "Electric Foldable Mirrors": true,
@@ -130,9 +130,9 @@
       "Apple CarPlay": true
     },
     "driver_assist": {
+      "Automatic Wipers": true,
       "Automatic Emergency Braking": true,
       "Tyre Pressure Monitor": true,
-      "Automatic Wipers": true,
       "Cruise Control": "Adaptive (ACC)",
       "Adaptive Cruise Control": true,
       "Lane Keep Assist": true,
@@ -188,7 +188,7 @@
       "Seat Height Adjustment Passenger": true,
       "Split-folding Rear Seats": true,
       "Isofix": true,
-      "Air Conditioning": "Dual Zone Climate Control",
+      "Air Conditioning": "2-Zone Climate Control",
       "Welcome Light": "Manual",
       "Anti-theft Alarm": false,
       "Electric Foldable Mirrors": false,
@@ -208,9 +208,9 @@
       "Apple CarPlay": false
     },
     "driver_assist": {
+      "Automatic Wipers": true,
       "Automatic Emergency Braking": false,
       "Tyre Pressure Monitor": true,
-      "Automatic Wipers": true,
       "Cruise Control": true,
       "Adaptive Cruise Control": false,
       "Lane Keep Assist": true,
@@ -266,7 +266,7 @@
       "Seat Height Adjustment Passenger": false,
       "Split-folding Rear Seats": true,
       "Isofix": true,
-      "Air Conditioning": "Automatic Climate Control",
+      "Air Conditioning": "Auto Climate Control",
       "Welcome Light": false,
       "Anti-theft Alarm": false,
       "Electric Foldable Mirrors": false,
@@ -286,9 +286,9 @@
       "Apple CarPlay": true
     },
     "driver_assist": {
+      "Automatic Wipers": true,
       "Automatic Emergency Braking": false,
       "Tyre Pressure Monitor": true,
-      "Automatic Wipers": true,
       "Cruise Control": true,
       "Adaptive Cruise Control": false,
       "Lane Keep Assist": true,
@@ -344,7 +344,7 @@
       "Seat Height Adjustment Passenger": false,
       "Split-folding Rear Seats": true,
       "Isofix": true,
-      "Air Conditioning": "Automatic Climate Control",
+      "Air Conditioning": "Auto Climate Control",
       "Welcome Light": false,
       "Anti-theft Alarm": false,
       "Electric Foldable Mirrors": true,
@@ -364,9 +364,9 @@
       "Apple CarPlay": true
     },
     "driver_assist": {
-      "Automatic Emergency Braking": "Some Models",
-      "Tyre Pressure Monitor": true,
       "Automatic Wipers": true,
+      "Automatic Emergency Braking": "Some Cars",
+      "Tyre Pressure Monitor": true,
       "Cruise Control": true,
       "Adaptive Cruise Control": false,
       "Lane Keep Assist": true,
@@ -422,7 +422,7 @@
       "Seat Height Adjustment Passenger": true,
       "Split-folding Rear Seats": true,
       "Isofix": true,
-      "Air Conditioning": "Dual-Zone Climate Control",
+      "Air Conditioning": "2-Zone Climate Control",
       "Welcome Light": false,
       "Anti-theft Alarm": true,
       "Electric Foldable Mirrors": true,
@@ -442,9 +442,9 @@
       "Apple CarPlay": true
     },
     "driver_assist": {
+      "Automatic Wipers": false,
       "Automatic Emergency Braking": true,
       "Tyre Pressure Monitor": true,
-      "Automatic Wipers": false,
       "Cruise Control": true,
       "Adaptive Cruise Control": false,
       "Lane Keep Assist": true,
@@ -457,7 +457,7 @@
     },
     "wheels": {
       "Size": "17 Inches",
-      "Alloy Wheels": "\"Shaw\" Diamond-Cut 2-tone Alloys"
+      "Alloy Wheels": "\"Shaw\" Diamond-Cut Alloys"
     },
     "charging": {
       "Useable Battery": "45 kWh",
@@ -499,7 +499,7 @@
       "Seat Height Adjustment Passenger": true,
       "Split-folding Rear Seats": true,
       "Isofix": true,
-      "Air Conditioning": "Dual-Zone Climate Control",
+      "Air Conditioning": "2-Zone Climate Control",
       "Welcome Light": false,
       "Anti-theft Alarm": true,
       "Electric Foldable Mirrors": true,
@@ -519,9 +519,9 @@
       "Apple CarPlay": true
     },
     "driver_assist": {
+      "Automatic Wipers": false,
       "Automatic Emergency Braking": true,
       "Tyre Pressure Monitor": true,
-      "Automatic Wipers": false,
       "Cruise Control": true,
       "Adaptive Cruise Control": false,
       "Lane Keep Assist": true,
@@ -534,7 +534,7 @@
     },
     "wheels": {
       "Size": "17 Inches",
-      "Alloy Wheels": "\"Shaw\" Diamond-Cut 2-tone Alloys"
+      "Alloy Wheels": "\"Shaw\" Diamond-Cut Alloys"
     },
     "charging": {
       "Useable Battery": "45 kWh",
@@ -596,9 +596,9 @@
       "Apple CarPlay": true
     },
     "driver_assist": {
+      "Automatic Wipers": true,
       "Automatic Emergency Braking": true,
       "Tyre Pressure Monitor": true,
-      "Automatic Wipers": true,
       "Cruise Control": true,
       "Adaptive Cruise Control": false,
       "Lane Keep Assist": true,
@@ -673,9 +673,9 @@
       "Apple CarPlay": true
     },
     "driver_assist": {
+      "Automatic Wipers": true,
       "Automatic Emergency Braking": true,
       "Tyre Pressure Monitor": true,
-      "Automatic Wipers": true,
       "Cruise Control": true,
       "Adaptive Cruise Control": false,
       "Lane Keep Assist": true,
@@ -750,9 +750,9 @@
       "Apple CarPlay": true
     },
     "driver_assist": {
+      "Automatic Wipers": true,
       "Automatic Emergency Braking": false,
       "Tyre Pressure Monitor": true,
-      "Automatic Wipers": true,
       "Cruise Control": true,
       "Adaptive Cruise Control": false,
       "Lane Keep Assist": true,
@@ -827,9 +827,9 @@
       "Apple CarPlay": true
     },
     "driver_assist": {
+      "Automatic Wipers": true,
       "Automatic Emergency Braking": true,
       "Tyre Pressure Monitor": true,
-      "Automatic Wipers": true,
       "Cruise Control": true,
       "Adaptive Cruise Control": true,
       "Lane Keep Assist": true,
@@ -904,9 +904,9 @@
       "Apple CarPlay": true
     },
     "driver_assist": {
+      "Automatic Wipers": true,
       "Automatic Emergency Braking": true,
       "Tyre Pressure Monitor": true,
-      "Automatic Wipers": true,
       "Cruise Control": true,
       "Adaptive Cruise Control": true,
       "Lane Keep Assist": true,
@@ -961,7 +961,7 @@
       "Seat Height Adjustment Passenger": true,
       "Split-folding Rear Seats": true,
       "Isofix": true,
-      "Air Conditioning": "Automatic Dual-Zone Climate Control",
+      "Air Conditioning": "2-Zone Climate Control",
       "Welcome Light": false,
       "Anti-theft Alarm": true,
       "Electric Foldable Mirrors": true,
@@ -981,9 +981,9 @@
       "Apple CarPlay": false
     },
     "driver_assist": {
+      "Automatic Wipers": true,
       "Automatic Emergency Braking": true,
       "Tyre Pressure Monitor": true,
-      "Automatic Wipers": true,
       "Cruise Control": "Adaptive (ACC)",
       "Adaptive Cruise Control": true,
       "Lane Keep Assist": true,
@@ -1038,7 +1038,7 @@
       "Seat Height Adjustment Passenger": true,
       "Split-folding Rear Seats": true,
       "Isofix": true,
-      "Air Conditioning": "Automatic Dual-Zone Climate Control",
+      "Air Conditioning": "2-Zone Climate Control",
       "Welcome Light": false,
       "Anti-theft Alarm": true,
       "Electric Foldable Mirrors": true,
@@ -1058,9 +1058,9 @@
       "Apple CarPlay": false
     },
     "driver_assist": {
+      "Automatic Wipers": true,
       "Automatic Emergency Braking": true,
       "Tyre Pressure Monitor": true,
-      "Automatic Wipers": true,
       "Cruise Control": "Adaptive (ACC)",
       "Adaptive Cruise Control": true,
       "Lane Keep Assist": true,
@@ -1115,7 +1115,7 @@
       "Seat Height Adjustment Passenger": true,
       "Split-folding Rear Seats": true,
       "Isofix": true,
-      "Air Conditioning": "Dual-Zone Climate Control",
+      "Air Conditioning": "2-Zone Climate Control",
       "Welcome Light": false,
       "Anti-theft Alarm": true,
       "Electric Foldable Mirrors": true,
@@ -1135,9 +1135,9 @@
       "Apple CarPlay": true
     },
     "driver_assist": {
+      "Automatic Wipers": true,
       "Automatic Emergency Braking": true,
       "Tyre Pressure Monitor": true,
-      "Automatic Wipers": true,
       "Cruise Control": "Adaptive (ACC)",
       "Adaptive Cruise Control": true,
       "Lane Keep Assist": true,
@@ -1150,7 +1150,7 @@
     },
     "wheels": {
       "Size": "20 Inches",
-      "Alloy Wheels": "Style 5068, 5 spoke alloys"
+      "Alloy Wheels": "Style 5068 Alloys"
     },
     "charging": {
       "Useable Battery": "90 kWh",
@@ -1192,7 +1192,7 @@
       "Seat Height Adjustment Passenger": true,
       "Split-folding Rear Seats": true,
       "Isofix": true,
-      "Air Conditioning": "Dual-Zone Climate Control",
+      "Air Conditioning": "2-Zone Climate Control",
       "Welcome Light": false,
       "Anti-theft Alarm": true,
       "Electric Foldable Mirrors": true,
@@ -1212,9 +1212,9 @@
       "Apple CarPlay": true
     },
     "driver_assist": {
+      "Automatic Wipers": true,
       "Automatic Emergency Braking": true,
       "Tyre Pressure Monitor": true,
-      "Automatic Wipers": true,
       "Cruise Control": true,
       "Adaptive Cruise Control": false,
       "Lane Keep Assist": true,
@@ -1227,7 +1227,7 @@
     },
     "wheels": {
       "Size": "21 Inches",
-      "Alloy Wheels": "Audi Sport alloy wheels"
+      "Alloy Wheels": "Audi Sport Alloys"
     },
     "charging": {
       "Useable Battery": "95 kWh",
@@ -1269,7 +1269,7 @@
       "Seat Height Adjustment Passenger": "Manual",
       "Split-folding Rear Seats": true,
       "Isofix": true,
-      "Air Conditioning": "Dual Zone Climate Control",
+      "Air Conditioning": "2-Zone Climate Control",
       "Welcome Light": true,
       "Anti-theft Alarm": true,
       "Electric Foldable Mirrors": true,
@@ -1289,9 +1289,9 @@
       "Apple CarPlay": true
     },
     "driver_assist": {
+      "Automatic Wipers": true,
       "Automatic Emergency Braking": true,
       "Tyre Pressure Monitor": true,
-      "Automatic Wipers": true,
       "Cruise Control": "Adaptive (ACC)",
       "Adaptive Cruise Control": true,
       "Lane Keep Assist": true,
@@ -1347,7 +1347,7 @@
       "Seat Height Adjustment Passenger": true,
       "Split-folding Rear Seats": true,
       "Isofix": "No information",
-      "Air Conditioning": "Dual Zone Climate Control",
+      "Air Conditioning": "2-Zone Climate Control",
       "Welcome Light": true,
       "Anti-theft Alarm": true,
       "Electric Foldable Mirrors": true,
@@ -1367,9 +1367,9 @@
       "Apple CarPlay": true
     },
     "driver_assist": {
+      "Automatic Wipers": true,
       "Automatic Emergency Braking": true,
       "Tyre Pressure Monitor": true,
-      "Automatic Wipers": true,
       "Cruise Control": "Adaptive (ACC)",
       "Adaptive Cruise Control": true,
       "Lane Keep Assist": true,
@@ -1382,7 +1382,7 @@
     },
     "wheels": {
       "Size": "18 Inches",
-      "Alloy Wheels": "Diamond-cut Crosslight Alloys"
+      "Alloy Wheels": "Diamond-Cut Alloys"
     },
     "charging": {
       "Useable Battery": "50 kWh",

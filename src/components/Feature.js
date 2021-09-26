@@ -7,14 +7,14 @@ const Feature = ({name, features}) => {
     const items = Object.keys(features).map(title => {
         if(typeof features[title] === 'boolean') {
             return (
-                <div className="flex justify-between py-1 even:bg-gray-200">
+                <div className="flex justify-between py-1 px-2 even:bg-gray-200">
                     <div>{title}</div>
                     <div>{features[title] ? <img className="w-5 h-5" src={check} /> : <img className="w-5 h-5" src={cross} /> }</div>
                 </div>
             )
         } else {
             return (
-                <div className="flex justify-between py-1 even:bg-gray-200">
+                <div className="flex justify-between py-1 px-2 even:bg-gray-200">
                     <div>{title}</div>
                     <div className="text-right">{ Array.isArray(features[title]) ? features[title].join(', ') : features[title]}</div>
                 </div>

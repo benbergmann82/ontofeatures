@@ -9,3 +9,31 @@ input:checked {
 input:checked ~ span {
     transform: translateX(1rem);
 }
+
+.compareButton span {
+    transition: all 500ms ease-in-out;
+    display: inline-block;
+    white-space: nowrap;
+    max-width: 0.6rem;
+    overflow: hidden;
+}
+
+.compareButton:hover span {
+    max-width: 10rem;
+}
+
+.removeCarButton span {
+    transition: all 500ms ease-in-out;
+    display: inline-block;
+    white-space: nowrap;
+    max-width: 0.4rem;
+    overflow: hidden;
+}
+
+.removeCarButton:hover span {
+    max-width: 10rem;
+}
+
+.cargrid {
+    grid-template-rows: 2rem 5rem minmax(4rem, auto) repeat(57, 1fr);
+}

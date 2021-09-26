@@ -17,7 +17,7 @@ const Manufacturer = () => {
 
     const options = allManufacturers.map(make => {
         return (
-            <div className="inline-block mx-2">
+            <div key={make} className="inline-block mx-2">
                     <input onChange={toggleMake} checked={filter.manufacturers.includes(make)} className="mr-1" type="checkbox" id={make} name={make} />
                     <label htmlFor={make}>{make}</label>
             </div>

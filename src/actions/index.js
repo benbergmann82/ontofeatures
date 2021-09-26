@@ -128,3 +128,23 @@ export const addManufacturer = (manufacturer) => {
     }
 }
 
+export const addComparisonCar = (carId) => {
+    return {
+        type: 'COMPARISON_ADD_CAR',
+        payload: carId
+    }
+}
+
+export const removeComparisonCar = (carId) => {
+    return {
+        type: 'COMPARISON_REMOVE_CAR',
+        payload: carId
+    }
+}
+
+export const setComparisonCars = (carIds) => {
+    return {
+        type: 'COMPARISON_SET_CARS',
+        payload: carIds
+    }
+}

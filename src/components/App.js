@@ -1,17 +1,19 @@
 import React, { useEffect, useState } from "react";
-import CarList from "./CarList";
 import { initiateCarList } from "../actions";
-import { useDispatch } from "react-redux";
+import { useDispatch, useSelector } from "react-redux";
 import Announcement from "./Announcement";
-import MainFilter from "./MainFilter";
-import Options from "./Options";
-import Connectors from "./Connectors";
-import Materials from "./Materials";
-import Manufacturer from "./Manufacturer";
+import BrowseCars from "./BrowseCars";
+import CompareCars from "./CompareCars";
 
 const App = () => {
-  const [hidden, setHidden] = useState(false);
-  const [carsFound, setCarsFound] = useState(0)
+  const views = {
+    BROWSE: "browse",
+    COMPARE: "compare"
+  };
+
+  const comparisonCars = useSelector(state => state.comparison);
+
+  const [activeView, setActiveView] = useState(views.BROWSE);
   const dispatch = useDispatch();
 
   // ********************** //
@@ -32,22 +34,16 @@ const App = () => {
       <Announcement text="Use code 15cb9 to get £50 off your first month with on.to" />
       <div className="flex flex-col items-center p-4 bg-green-200 min-h-screen">
         <h1 className="text-3xl font-bold text-center text-gray-800 mb-4">ONTO EV Feature Comparison Tool</h1>
-        <div className="w-full text-center">
-            <span className="block font-bold text-lg mb-4">{carsFound} Cars found</span>
-            <button onClick={() => setHidden(!hidden)} className="text-sm uppercase">{hidden ? '▼ Show Filters & Options ▼' : '▲ Hide Filters & Options ▲'}</button>
-            <div className="md:flex md:justify-center">
-                <MainFilter hidden={hidden} />
-                <Options hidden={hidden} />
-                <div className={`text-center mt-6 md:w-2/5 lg:w-1/3 xl:w-1/4 md:mx-4 ${ hidden ? 'hidden' : ''}`}>
-                    <Connectors hidden={hidden} />
-                    <Materials hidden={hidden} />
-                    <Manufacturer hidden={hidden} />
-                </div>
-            </div>
-            <div className="md:flex md:flex-wrap md:items-start justify-center mt-2">
-            <CarList callback={setCarsFound} />
-            </div>
+        <div className="flex mb-4">
+          <button className="bg-green-300 px-6 py-2 border border-green-700 mx-2 hover:bg-green-600 hover:text-white transition-all rounded-lg" onClick={() => setActiveView(views.BROWSE)}>Browse all cars</button>
+          <button className="relative bg-green-300 px-6 py-2 border border-green-700 mx-2 hover:bg-green-600 hover:text-white transition-all rounded-lg" onClick={() => setActiveView(views.COMPARE)}>
+            <span className="absolute -right-2 -top-2 block w-7 h-7 bg-green-600 text-white border border-green-700 text-sm leading-6 rounded-2xl">
+              {comparisonCars.cars.length}
+            </span>
+            Compare cars
+          </button>
         </div>
+        {activeView === views.BROWSE ? <BrowseCars /> : <CompareCars />}
       </div>
     </div>
   );
