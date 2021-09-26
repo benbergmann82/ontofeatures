@@ -26,7 +26,7 @@ const CompareCars = () => {
         return (
             <div className="w-full">
                 <SearchBar callback={addToComparisonCars} />
-                <div className={`bg-white rounded-lg grid grid-cols-${comparisonCars.length} py-4`}>
+                <div className={`bg-white rounded-lg flex py-4`}>
                     
                     {comparisonCars.map(car => {
                         return (

@@ -4,7 +4,6 @@ const ComparisonFeature = ({ title, feature }) => {
     const cross = `${process.env.PUBLIC_URL}/assets/images/cross.svg`;
     const check = `${process.env.PUBLIC_URL}/assets/images/check.svg`;
         
-        console.log(feature);
         return (
             <div className="flex flex-col md:flex-row justify-between items-center align-middle bg-gray-100 even:bg-gray-300 p-2">
                 <div className="text-center md:text-left">{title}</div>
