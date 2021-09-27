@@ -50,6 +50,7 @@ const Options = ({ hidden }) => {
                     <Option title="LED Rear Lights" callback={toggleOption} />
                     <Option title="LED Daytime Running Lights" callback={toggleOption} />
                     <Option title="Electric Foldable Mirrors" callback={toggleOption} />
+                    <Option title="Roof Box Possible" callback={toggleOption} />
                     <button onClick={() => dispatch(resetOptions())} className="mt-2 bg-gray-200 rounded-lg py-2 px-4 m-auto text-sm">Reset Options</button>
                 </div>
             </div>

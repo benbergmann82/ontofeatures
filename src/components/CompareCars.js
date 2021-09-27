@@ -1,21 +1,42 @@
-import React, { useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 import { useSelector, useDispatch } from "react-redux";
 import ComparisonFeature from './ComparisonFeature';
 import SearchBar from './SearchBar';
 import { addComparisonCar, removeComparisonCar } from '../actions';
+import Alert from './Alert';
 
 const CompareCars = () => {
+    const [showAlert, setShowAlert] = useState(false);
+    const [alertMessage, setAlertMessage] = useState('');
+
     const comparison = useSelector(state => state.comparison);
     const cars = useSelector(state => state.cars);
     const comparisonCars = cars.filter(car => comparison.cars.includes(car.id));
     const dispatch = useDispatch();
+
 
     const xImg = `${process.env.PUBLIC_URL}/assets/images/x.svg`;
 
     const addToComparisonCars = (carId) => {
         if(comparison.cars.length < 3 && !comparison.cars.includes(carId)) {
             dispatch(addComparisonCar(carId));
-        } 
+        } else if(comparison.cars.length == 3) {
+            setAlertMessage("You can compare up to 3 cars. Please remove one first to add another car.");
+            setShowAlert(true);
+
+            setTimeout(() => {
+                setShowAlert(false);
+                setAlertMessage('');
+            }, 3000);
+        } else if(comparison.cars.includes(carId)) {
+            setAlertMessage("This car is already in the comparison list. Please choose a different car.");
+            setShowAlert(true);
+
+            setTimeout(() => {
+                setShowAlert(false);
+                setAlertMessage('');
+            }, 3000);
+        }
     }
     
     useEffect(() => {
@@ -25,8 +46,9 @@ const CompareCars = () => {
     if(comparison.cars.length > 0) {
         return (
             <div className="w-full">
+                {showAlert ? <Alert message={alertMessage} /> : ''}
                 <SearchBar callback={addToComparisonCars} />
-                <div className={`bg-white rounded-lg flex py-4`}>
+                <div className={`bg-white rounded-lg flex justify-center py-4`}>
                     
                     {comparisonCars.map(car => {
                         return (
@@ -73,6 +95,8 @@ const CompareCars = () => {
                             {Object.keys(car.features.lights).map(key => <ComparisonFeature title={key} feature={car.features.lights[key]} />)}
                             <h3 className="text-sm font-bold uppercase py-4 flex items-center justify-center bg-gray-600 text-white">Interior</h3>
                             {Object.keys(car.features.interior).map(key => <ComparisonFeature title={key} feature={car.features.interior[key]} />)}
+                            <h3 className="text-sm font-bold uppercase py-4 flex items-center justify-center bg-gray-600 text-white">Exterior</h3>
+                            {Object.keys(car.features.exterior).map(key => <ComparisonFeature title={key} feature={car.features.exterior[key]} />)}
                             <h3 className="text-sm font-bold uppercase py-4 flex items-center justify-center bg-gray-600 text-white">Connectivity</h3>
                             {Object.keys(car.features.connectivity).map(key => <ComparisonFeature title={key} feature={car.features.connectivity[key]} />)}
                             <h3 className="text-sm font-bold uppercase py-4 flex items-center justify-center bg-gray-600 text-white">Driver Assist</h3>

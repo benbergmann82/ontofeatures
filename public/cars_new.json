@@ -19,6 +19,9 @@
       "LED Rear Lights": true,
       "LED Daytime Running Lights": true
     },
+    "exterior": {
+      "Roof Box Possible": false
+    },
     "interior": {
       "Seat Material": ["Cloth"],
       "Steering Wheel": ["Leather"],
@@ -96,6 +99,9 @@
       "LED Front Lights": true,
       "LED Rear Lights": true,
       "LED Daytime Running Lights": true
+    },
+    "exterior": {
+      "Roof Box Possible": false
     },
     "interior": {
       "Seat Material": ["Cloth"],
@@ -175,6 +181,9 @@
       "LED Rear Lights": false,
       "LED Daytime Running Lights": true
     },
+    "exterior": {
+      "Roof Box Possible": false
+    },
     "interior": {
       "Seat Material": ["Cloth"],
       "Steering Wheel": ["Leather"],
@@ -252,6 +261,9 @@
       "LED Front Lights": true,
       "LED Rear Lights": true,
       "LED Daytime Running Lights": true
+    },
+    "exterior": {
+      "Roof Box Possible": false
     },
     "interior": {
       "Seat Material": ["Cloth"],
@@ -331,6 +343,9 @@
       "LED Rear Lights": true,
       "LED Daytime Running Lights": true
     },
+    "exterior": {
+      "Roof Box Possible": false
+    },
     "interior": {
       "Seat Material": ["Cloth", "Leather"],
       "Steering Wheel": ["Synthetic Leather"],
@@ -409,6 +424,9 @@
       "LED Rear Lights": true,
       "LED Daytime Running Lights": true
     },
+    "exterior": {
+      "Roof Box Possible": true
+    },
     "interior": {
       "Seat Material": ["Cloth", "Synthetic Leather"],
       "Steering Wheel": ["Leather"],
@@ -433,7 +451,7 @@
     },
     "connectivity": {
       "DAB Radio": true,
-      "Built-in Satnav": true,
+      "Built-in Satnav": false,
       "Phone App": true,
       "Wireless Phone Charger": true,
       "USB Ports": true,
@@ -485,6 +503,9 @@
       "LED Front Lights": true,
       "LED Rear Lights": true,
       "LED Daytime Running Lights": true
+    },
+    "exterior": {
+      "Roof Box Possible": true
     },
     "interior": {
       "Seat Material": ["Cloth", "Synthetic Leather"],
@@ -563,6 +584,9 @@
       "LED Rear Lights": false,
       "LED Daytime Running Lights": true
     },
+    "exterior": {
+      "Roof Box Possible": true
+    },
     "interior": {
       "Seat Material": ["Cloth"],
       "Steering Wheel": ["Leather"],
@@ -639,6 +663,9 @@
       "LED Front Lights": true,
       "LED Rear Lights": true,
       "LED Daytime Running Lights": true
+    },
+    "exterior": {
+      "Roof Box Possible": true
     },
     "interior": {
       "Seat Material": ["Leather"],
@@ -717,6 +744,9 @@
       "LED Rear Lights": true,
       "LED Daytime Running Lights": true
     },
+    "exterior": {
+      "Roof Box Possible": true
+    },
     "interior": {
       "Seat Material": ["Cloth", "Synthetic Leather"],
       "Steering Wheel": ["Leather"],
@@ -793,6 +823,9 @@
       "LED Front Lights": true,
       "LED Rear Lights": true,
       "LED Daytime Running Lights": true
+    },
+    "exterior": {
+      "Roof Box Possible": true
     },
     "interior": {
       "Seat Material": ["Leather"],
@@ -871,6 +904,9 @@
       "LED Rear Lights": true,
       "LED Daytime Running Lights": true
     },
+    "exterior": {
+      "Roof Box Possible": true
+    },
     "interior": {
       "Seat Material": ["Leather"],
       "Steering Wheel": ["Leather"],
@@ -947,6 +983,9 @@
       "LED Front Lights": true,
       "LED Rear Lights": true,
       "LED Daytime Running Lights": true
+    },
+    "exterior": {
+      "Roof Box Possible": true
     },
     "interior": {
       "Seat Material": ["Synthetic Leather"],
@@ -1025,6 +1064,9 @@
       "LED Rear Lights": true,
       "LED Daytime Running Lights": true
     },
+    "exterior": {
+      "Roof Box Possible": true
+    },
     "interior": {
       "Seat Material": ["Synthetic Leather"],
       "Steering Wheel": ["Synthetic Leather"],
@@ -1101,6 +1143,9 @@
       "LED Front Lights": "Matrix LED",
       "LED Rear Lights": true,
       "LED Daytime Running Lights": true
+    },
+    "exterior": {
+      "Roof Box Possible": true
     },
     "interior": {
       "Seat Material": ["Leather"],
@@ -1179,6 +1224,9 @@
       "LED Rear Lights": true,
       "LED Daytime Running Lights": true
     },
+    "exterior": {
+      "Roof Box Possible": true
+    },
     "interior": {
       "Seat Material": ["Leather"],
       "Steering Wheel": ["Leather"],
@@ -1255,6 +1303,9 @@
       "LED Front Lights": "IQ. Light",
       "LED Rear Lights": true,
       "LED Daytime Running Lights": true
+    },
+    "exterior": {
+      "Roof Box Possible": false
     },
     "interior": {
       "Seat Material": ["Microfleece"],
@@ -1333,6 +1384,9 @@
       "LED Front Lights": true,
       "LED Rear Lights": true,
       "LED Daytime Running Lights": true
+    },
+    "exterior": {
+      "Roof Box Possible": true
     },
     "interior": {
       "Seat Material": ["Leather", "Cloth"],

@@ -11,6 +11,7 @@ const Features = ({car, hidden}) => {
                 <Feature name="Wheels" features={car.features.wheels} />
                 <Feature name="Lights" features={car.features.lights} />
                 <Feature name="Interior" features={car.features.interior} />
+                <Feature name="Exterior" features={car.features.exterior} />
                 <Feature name="Connectivity" features={car.features.connectivity} />
                 <Feature name="Driver Assist" features={car.features.driver_assist} />
             </div>
