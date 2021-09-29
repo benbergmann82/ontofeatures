@@ -9,8 +9,8 @@ const ComparisonFeature = ({ title, feature }) => {
                 <div className="text-center md:text-left">{title}</div>
                 <div className="text-center md:text-right">
                     { typeof feature === 'boolean' ?
-                    feature ? <img className="w-5 h-5 m-auto" src={check} /> :
-                    <img className="w-5 h-5 m-auto" src={cross} /> : Array.isArray(feature) ? feature.join(', ') : <div className="text-center md:text-right">{feature}</div> }
+                    feature ? <img className="w-5 h-5 m-auto" alt="Checkmark" src={check} /> :
+                    <img className="w-5 h-5 m-auto" alt="Cross" src={cross} /> : Array.isArray(feature) ? feature.join(', ') : <div className="text-center md:text-right">{feature}</div> }
                 </div>
             </div>
 

@@ -9,7 +9,7 @@ const Feature = ({name, features}) => {
             return (
                 <div className="flex justify-between py-1 px-2 even:bg-gray-200">
                     <div>{title}</div>
-                    <div>{features[title] ? <img className="w-5 h-5" src={check} /> : <img className="w-5 h-5" src={cross} /> }</div>
+                    <div>{features[title] ? <img className="w-5 h-5" alt="Checkmark" src={check} /> : <img className="w-5 h-5" alt="Cross" src={cross} /> }</div>
                 </div>
             )
         } else {

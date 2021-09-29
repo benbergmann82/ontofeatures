@@ -32,7 +32,7 @@ const App = () => {
   return (
     <div>
       <Announcement text="Use code 15cb9 to get £50 off your first month with on.to" />
-      <div className="flex flex-col items-center p-4 bg-green-200 min-h-screen">
+      <div className="flex flex-col items-center md:p-4 bg-green-200 min-h-screen">
         <h1 className="text-3xl font-bold text-center text-gray-800 mb-4">ONTO EV Feature Comparison Tool</h1>
         <div className="flex mb-4">
           <button className="bg-green-300 px-6 py-2 border border-green-700 mx-2 hover:bg-green-600 hover:text-white transition-all rounded-lg" onClick={() => setActiveView(views.BROWSE)}>Browse all cars</button>

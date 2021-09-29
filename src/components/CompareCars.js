@@ -20,7 +20,7 @@ const CompareCars = () => {
     const addToComparisonCars = (carId) => {
         if(comparison.cars.length < 3 && !comparison.cars.includes(carId)) {
             dispatch(addComparisonCar(carId));
-        } else if(comparison.cars.length == 3) {
+        } else if(comparison.cars.length === 3) {
             setAlertMessage("You can compare up to 3 cars. Please remove one first to add another car.");
             setShowAlert(true);
 
@@ -45,23 +45,23 @@ const CompareCars = () => {
 
     if(comparison.cars.length > 0) {
         return (
-            <div className="w-full">
+            <div className="w-full text-sm md:text-md">
                 {showAlert ? <Alert message={alertMessage} /> : ''}
                 <SearchBar callback={addToComparisonCars} />
-                <div className={`bg-white rounded-lg flex justify-center py-4`}>
+                <div className="bg-white md:rounded-lg flex justify-center py-4">
                     
                     {comparisonCars.map(car => {
                         return (
                         <div className="cargrid relative grid px-2">
                             <button onClick={() => dispatch(removeComparisonCar(car.id))} className="absolute w-6 h-6 bg-gray-300 border border-gray-400 rounded-full right-4 top-4 flex items-center align-middle"><img className="h-6 w-6" src={xImg} alt="Remove car" /></button>
-                            <div className="text-md font-bold p-2">
+                            <div className="text-sm md:text-md font-bold p-2">
                                 {car.make}
                             </div>
-                            <div className="text-xl font-bold p-2">
+                            <div className="text-md md:text-xl font-bold p-2">
                                 {car.name}
                             </div>
                             <div className="p-2">
-                                <img className="block m-auto" src={`${process.env.PUBLIC_URL}/assets/images/${car.image}`} />
+                                <img className="block m-auto" alt={car.name} src={`${process.env.PUBLIC_URL}/assets/images/${car.image}`} />
                             </div>
                             <div className="flex flex-col md:flex-row justify-between items-center align-middle p-2">
                                 <div>

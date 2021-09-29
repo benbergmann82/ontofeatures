@@ -17,7 +17,7 @@ const Options = ({ hidden }) => {
     return (
         <div className={`text-center mt-6 md:w-2/5 lg:w-1/3 xl:w-1/4 md:mx-4 ${ hidden ? 'hidden' : ''}`}>
             <div>
-                <div className="flex flex-col flex-wrap shadow p-4 mb-4 rounded-lg bg-white">
+                <div className="flex flex-col flex-wrap shadow p-4 mb-4 md:rounded-lg bg-white">
                     <span className="text-center font-bold uppercase text-sm mb-4">Driver Convenience</span>
                     <Option title="Heated Steering Wheel" callback={toggleOption} />
                     <Option title="Heated Seats" callback={toggleOption} />

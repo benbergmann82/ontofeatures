@@ -6,7 +6,7 @@ const Car = ({ car }) => {
     const [hidden, setHidden] = useState(true);
 
     return (
-        <div className="relative p-8 text-left bg-white rounded-lg my-4 shadow flex flex-col items-center text-gray-800 md:w-1/2 lg:w-2/5 2xl:w-1/4 md:mx-4">
+        <div className="relative p-8 text-left bg-white md:rounded-lg my-4 shadow flex flex-col items-center text-gray-800 md:w-1/2 lg:w-2/5 2xl:w-1/4 md:mx-4">
             <h1 className="text-center text-md font-bold mb-2">{car.make}</h1>
             <h2 className="text-center text-xl font-bold mb-2">{car.name}</h2>
             <img src={image} alt={car.name} />
