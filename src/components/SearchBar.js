@@ -31,8 +31,8 @@ const SearchBar = ({ callback }) => {
     }
 
     return (
-        <div className="flex items-center relative mx-2">
-            <input value={searchInput} onChange={searchChanged} type="text" name="searchbar" placeholder="Add a car to compare" className="p-2 w-full border outline-none border-gray-500 rounded-lg mb-4 h-10" />
+        <div className="w-full flex items-center relative">
+            <input value={searchInput} onChange={searchChanged} type="text" name="searchbar" placeholder="Add a car to compare" className="p-2 w-full border border-r-0 border-l-0 md:border-r md:border-l outline-none border-gray-500 md:rounded-lg mb-4 h-10" />
             <div ref={searchListRef} className={`z-10 absolute rounded-lg rounded-t-none ${searchListHidden ? 'hidden' : ''} w-full bg-white p-4 border border-t-0 border-gray-500 top-8`}>
                 {foundItems.length === 0 ? 'No cars found' : foundItems.map(item => <div onClick={() => itemClicked(item.id)} className="p-2 hover:bg-gray-300">{item.manufacturer} {item.model}</div>)}
             </div>
