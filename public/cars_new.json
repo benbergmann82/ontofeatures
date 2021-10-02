@@ -540,7 +540,7 @@
       "Apple CarPlay": true
     },
     "driver_assist": {
-      "Automatic Wipers": false,
+      "Automatic Wipers": true,
       "Automatic Emergency Braking": true,
       "Tyre Pressure Monitor": true,
       "Cruise Control": true,
@@ -551,7 +551,7 @@
       "Parking Sensors Rear": true,
       "Rearview Camera": true,
       "Blind Spot Monitoring": true,
-      "Auto-dimming Rearview Mirror": false
+      "Auto-dimming Rearview Mirror": true
     },
     "wheels": {
       "Size": "17 Inches",
