@@ -35,5 +35,5 @@ input:checked ~ span {
 }
 
 .cargrid {
-    grid-template-rows: 2rem 5rem minmax(4rem, auto) repeat(57, 1fr);
+    grid-template-rows: 2rem 5rem minmax(4rem, auto) repeat(59, 1fr);
 }
