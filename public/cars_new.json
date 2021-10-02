@@ -1456,10 +1456,10 @@
   "speed": 8.5,
   "power": 150,
   "torque": 229,
-  "battery": 82,
-  "drive": "AWD",
-  "max_charging_speed": 155,
-  "image": "AudiQ4_1.jpg",
+  "battery": 76.6,
+  "drive": "Rear",
+  "max_charging_speed": 126,
+  "image": "AudiQ4Etron_1.jpg",
   "features": {
     "lights": {
       "LED Front Lights": true,
@@ -1470,7 +1470,7 @@
       "Roof Box Possible": true
     },
     "interior": {
-      "Seat Material": ["Leather"],
+      "Seat Material": ["Cloth", "Leather"],
       "Steering Wheel": ["Leather"],
       "Heated Steering Wheel": false,
       "Electric Windows Front": true,
@@ -1482,12 +1482,12 @@
       "Seat Height Adjustment Passenger": true,
       "Split-folding Rear Seats": true,
       "Isofix": true,
-      "Air Conditioning": "2-Zone Climate Control",
+      "Air Conditioning": "3-Zone Climate Control",
       "Welcome Light": false,
       "Anti-theft Alarm": true,
       "Electric Foldable Mirrors": true,
       "Heated Seats": true,
-      "Keyless Entry": true,
+      "Keyless Entry": false,
       "Sunroof": false,
       "Panoramic Glass Roof": false
     },
@@ -1495,7 +1495,7 @@
       "DAB Radio": true,
       "Built-in Satnav": true,
       "Phone App": true,
-      "Wireless Phone Charger": true,
+      "Wireless Phone Charger": false,
       "USB Ports": true,
       "Emergency Call System": true,
       "Android Auto": true,
@@ -1506,22 +1506,22 @@
       "Automatic Emergency Braking": true,
       "Tyre Pressure Monitor": true,
       "Cruise Control": true,
-      "Adaptive Cruise Control": false,
-      "Lane Keep Assist": true,
-      "Lane Follow Assist": true,
+      "Adaptive Cruise Control": true,
+      "Lane Keep Assist": false,
+      "Lane Follow Assist": false,
       "Parking Sensors Front": true,
       "Parking Sensors Rear": true,
       "Rearview Camera": true,
-      "Blind Spot Monitoring": true,
+      "Blind Spot Monitoring": false,
       "Auto-dimming Rearview Mirror": true
     },
     "wheels": {
-      "Size": "21 Inches",
-      "Alloy Wheels": "Audi Sport Alloys"
+      "Size": "20 Inches",
+      "Alloy Wheels": true
     },
     "charging": {
-      "Useable Battery": "95 kWh",
-      "Max Charging Speed": "155 kW",
+      "Useable Battery": "76.6 kWh",
+      "Max Charging Speed": "126 kW",
       "Connector": ["Type 2", "CCS"]
     }
   }
