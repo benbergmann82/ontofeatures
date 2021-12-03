@@ -1525,5 +1525,86 @@
       "Connector": ["Type 2", "CCS"]
     }
   }
+},
+{
+  "id": 20,
+  "make": "Volkswagen",
+  "name": "ID.4 Life Pro Performance",
+  "capacity": 77.0,
+  "price": 899,
+  "range": 255,
+  "speed": 8.5,
+  "power": 150,
+  "torque": 229,
+  "battery": 77.0,
+  "drive": "rear",
+  "max_charging_speed": 135,
+  "image": "ID4_1.jpg",
+  "features": {
+    "lights": {
+      "LED Front Lights": true,
+      "LED Rear Lights": true,
+      "LED Daytime Running Lights": false
+    },
+    "exterior": {
+      "Roof Box Possible": true
+    },
+    "interior": {
+      "Seat Material": ["Microfleece"],
+      "Steering Wheel": ["Leather"],
+      "Heated Steering Wheel": true,
+      "Electric Windows Front": true,
+      "Electric Windows Rear": true,
+      "Driver Armrest": true,
+      "Passenger Armrest": true,
+      "Centre Console Storage": true,
+      "Seat Height Adjustment Driver": "Manual",
+      "Seat Height Adjustment Passenger": "Manual",
+      "Split-folding Rear Seats": true,
+      "Isofix": true,
+      "Air Conditioning": "2-Zone Climate Control",
+      "Welcome Light": false,
+      "Anti-theft Alarm": true,
+      "Electric Foldable Mirrors": true,
+      "Heated Seats": true,
+      "Keyless Entry": true,
+      "Sunroof": false,
+      "Panoramic Glass Roof": false
+    },
+    "connectivity": {
+      "DAB Radio": true,
+      "Built-in Satnav": true,
+      "Phone App": true,
+      "Wireless Phone Charger": true,
+      "USB Ports": true,
+      "Emergency Call System": true,
+      "Android Auto": true,
+      "Apple CarPlay": true
+    },
+    "driver_assist": {
+      "Automatic Wipers": true,
+      "Automatic Emergency Braking": true,
+      "Tyre Pressure Monitor": true,
+      "Cruise Control": "Adaptive (ACC)",
+      "Adaptive Cruise Control": true,
+      "Lane Keep Assist": true,
+      "Lane Follow Assist": false,
+      "Parking Sensors Front": true,
+      "Parking Sensors Rear": true,
+      "Rearview Camera": true,
+      "Blind Spot Monitoring": false,
+      "Auto-dimming Rearview Mirror": true
+    },
+    "wheels": {
+      "Size": "235/55 R19 (255/50 rear)",
+      "Alloy Wheels": "Hamar 19 Inch"
+    },
+    "charging": {
+      "Useable Battery": "77 kWh",
+      "Max Charging Speed": "135 kW",
+      "Connector": ["Type 2", "CCS"]
+
+    }
+  }
 }
 ]
