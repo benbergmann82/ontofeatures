@@ -53,7 +53,7 @@ const CompareCars = () => {
                     {comparisonCars.map(car => {
                         return (
                         <div className="cargrid relative grid px-2 overflow-hidden">
-                            {!car.can_be_ordered ? <div className="bg-red-200 px-12 py-3 absolute top-2 -left-10 transform -rotate-45 text-sm font-semibold">Retired</div> : null}
+                            {!car.can_be_ordered ? <div className="bg-red-200 px-12 py-3 absolute top-3 -left-10 transform -rotate-45 text-sm font-semibold">Retired</div> : null}
                             <button onClick={() => dispatch(removeComparisonCar(car.id))} className="absolute w-6 h-6 bg-gray-300 border border-gray-400 rounded-full right-4 top-4 flex items-center align-middle"><img className="h-6 w-6" src={xImg} alt="Remove car" /></button>
                             <div className="text-sm md:text-md font-bold p-2">
                                 {car.make}
