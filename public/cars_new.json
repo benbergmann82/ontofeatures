@@ -1,6 +1,7 @@
 [
 {
   "id": 1,
+  "can_be_ordered": true,
   "make": "Volkswagen",
   "name": "ID.3 Life Pro Performance",
   "capacity": 58.0,
@@ -82,6 +83,7 @@
 },
 {
   "id": 2,
+  "can_be_ordered": true,
   "make": "Hyundai",
   "name": "Ioniq Premium 38kWh",
   "capacity": 38.0,
@@ -163,6 +165,7 @@
 },
 {
   "id": 3,
+  "can_be_ordered": true,
   "make": "Volkswagen",
   "name": "e-up",
   "capacity": 32.3,
@@ -244,6 +247,7 @@
 },
 {
   "id": 4,
+  "can_be_ordered": true,
   "make": "Renault",
   "name": "Zoe ZE50 Iconic R135",
   "capacity": 52,
@@ -325,6 +329,7 @@
 },
 {
   "id": 5,
+  "can_be_ordered": true,
   "make": "Renault",
   "name": "Zoe ZE50 GT Line R135",
   "capacity": 52,
@@ -406,6 +411,7 @@
 },
 {
   "id": 6,
+  "can_be_ordered": false,
   "make": "Peugeot",
   "name": "e-208 GT Line",
   "capacity": 45,
@@ -486,6 +492,7 @@
 },
 {
   "id": 7,
+  "can_be_ordered": true,
   "make": "Peugeot",
   "name": "e-208 GT",
   "capacity": 45,
@@ -566,6 +573,7 @@
 },
 {
   "id": 8,
+  "can_be_ordered": false,
   "make": "Citroen DS3",
   "name": "Crossback E-Tense Performance Line",
   "capacity": 45,
@@ -646,6 +654,7 @@
 },
 {
   "id": 9,
+  "can_be_ordered": true,
   "make": "Citroen DS3",
   "name": "Crossback E-Tense Ultra Prestige",
   "capacity": 45,
@@ -726,6 +735,7 @@
 },
 {
   "id": 10,
+  "can_be_ordered": true,
   "make": "Peugeot",
   "name": "e-2008 GT",
   "capacity": 45,
@@ -806,6 +816,7 @@
 },
 {
   "id": 11,
+  "can_be_ordered": true,
   "make": "Hyundai",
   "name": "Kona Premium SE 64kWh",
   "capacity": 64,
@@ -886,6 +897,7 @@
 },
 {
   "id": 12,
+  "can_be_ordered": true,
   "make": "Hyundai",
   "name": "Kona Ultimate 64kWh",
   "capacity": 64,
@@ -966,6 +978,7 @@
 },
 {
   "id": 13,
+  "can_be_ordered": true,
   "make": "Tesla",
   "name": "Model 3 SR Plus",
   "capacity": 55,
@@ -1046,6 +1059,7 @@
 },
 {
   "id": 14,
+  "can_be_ordered": true,
   "make": "Tesla",
   "name": "Model 3 Long Range",
   "capacity": 74,
@@ -1126,6 +1140,7 @@
 },
 {
   "id": 15,
+  "can_be_ordered": true,
   "make": "Jaguar",
   "name": "I-Pace HSE EV400",
   "capacity": 90,
@@ -1206,6 +1221,7 @@
 },
 {
   "id": 16,
+  "can_be_ordered": true,
   "make": "Audi",
   "name": "e-tron 55 Quattro Black Edition",
   "capacity": 95,
@@ -1286,6 +1302,7 @@
 },
 {
   "id": 17,
+  "can_be_ordered": true,
   "make": "Volkswagen",
   "name": "ID.3 Family Pro Performance",
   "capacity": 58.0,
@@ -1367,6 +1384,7 @@
 },
 {
   "id": 18,
+  "can_be_ordered": true,
   "make": "Citroen",
   "name": "e-C4 Shine Plus",
   "capacity": 50.0,
@@ -1448,6 +1466,7 @@
 },
 {
   "id": 19,
+  "can_be_ordered": true,
   "make": "Audi",
   "name": "Q4 40 e-tron",
   "capacity": 82,
@@ -1528,6 +1547,7 @@
 },
 {
   "id": 20,
+  "can_be_ordered": true,
   "make": "Volkswagen",
   "name": "ID.4 Life Pro Performance",
   "capacity": 77.0,
