@@ -1261,7 +1261,7 @@
       "Anti-theft Alarm": true,
       "Electric Foldable Mirrors": true,
       "Heated Seats": true,
-      "Keyless Entry": true,
+      "Keyless Entry": false,
       "Sunroof": false,
       "Panoramic Glass Roof": false
     },
