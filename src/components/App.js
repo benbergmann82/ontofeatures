@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { initiateCarList } from "../actions";
 import { useDispatch, useSelector } from "react-redux";
+import { ExternalLinkIcon } from '@heroicons/react/outline';
 import Announcement from "./Announcement";
 import BrowseCars from "./BrowseCars";
 import CompareCars from "./CompareCars";
@@ -42,6 +43,7 @@ const App = () => {
             </span>
             Compare cars
           </button>
+          <a href="https://calc.evtips.co.uk" target="_blank" className="bg-green-300 px-6 py-2 border border-green-700 mx-2 hover:bg-green-600 hover:text-white transition-all rounded-lg">Charging Calculator<ExternalLinkIcon className="h-5 w-5 inline-block ml-1" /></a>
         </div>
         {activeView === views.BROWSE ? <BrowseCars /> : <CompareCars />}
       </div>
