@@ -15,7 +15,7 @@ const Connectors = ({ hidden }) => {
     }
 
     return (
-        <div className="shadow p-4 mb-4 md:rounded-lg bg-white">
+        <div className="shadow p-4 mb-4 md:rounded-lg bg-gray-200 border border-gray-400">
             <span className="block text-center font-bold uppercase text-sm mb-2">Connector Type</span>
             <div className="inline-block mx-2">
                 <input className="mr-1" checked={filter.connector.includes("Type 2")} onChange={toggleOption} type="checkbox" id="type2" name="Type 2" />

@@ -17,7 +17,7 @@ const Options = ({ hidden }) => {
     return (
         <div className={`text-center mt-6 md:w-2/5 lg:w-1/3 xl:w-1/4 md:mx-4 ${ hidden ? 'hidden' : ''}`}>
             <div>
-                <div className="flex flex-col flex-wrap shadow p-4 mb-4 md:rounded-lg bg-white">
+                <div className="bg-gray-200 border border-gray-400 flex flex-col flex-wrap shadow p-4 mb-4 md:rounded-lg">
                     <span className="text-center font-bold uppercase text-sm mb-4">Driver Convenience</span>
                     <Option title="Heated Steering Wheel" callback={toggleOption} />
                     <Option title="Heated Seats" callback={toggleOption} />
@@ -51,7 +51,7 @@ const Options = ({ hidden }) => {
                     <Option title="LED Daytime Running Lights" callback={toggleOption} />
                     <Option title="Electric Foldable Mirrors" callback={toggleOption} />
                     <Option title="Roof Box Possible" callback={toggleOption} />
-                    <button onClick={() => dispatch(resetOptions())} className="mt-2 bg-gray-200 rounded-lg py-2 px-4 m-auto text-sm">Reset Options</button>
+                    <button onClick={() => dispatch(resetOptions())} className="mt-2 bg-blue-600 hover:bg-blue-800 transition duration-500 text-white rounded-lg py-2 px-4 m-auto text-sm">Reset Options</button>
                 </div>
             </div>
         </div>

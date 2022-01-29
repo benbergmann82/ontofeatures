@@ -7,6 +7,9 @@ module.exports = {
         '96': '28rem',
       }
     },
+    fontFamily: {
+      'Roboto': ['Roboto', 'sans-serif'],
+    }
   },
   variants: {
     extend: {

@@ -14,7 +14,7 @@ const MainFilter = ({hidden}) => {
 
     return (
         <div className={`text-center mt-6 md:w-2/5 lg:w-1/3 xl:w-1/4 md:mx-4 ${ hidden ? 'hidden' : ''}`}>
-            <div className="flex flex-col flex-wrap shadow p-4 mb-4 md:rounded-lg bg-white">
+            <div className="bg-gray-200 border border-gray-400 flex flex-col flex-wrap shadow p-4 mb-4 md:rounded-lg bg-white">
                 <span className="font-bold uppercase text-sm mb-2">Filter By</span>
                 <MakeFilter />
                 <PriceSlider />

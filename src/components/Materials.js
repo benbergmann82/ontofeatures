@@ -23,7 +23,7 @@ const Materials = ({ hidden }) => {
     }
 
     return (
-        <div className="shadow p-4 mb-4 md:rounded-lg bg-white">
+        <div className="shadow p-4 mb-4 md:rounded-lg bg-gray-200 border border-gray-400">
             <span className="block text-center font-bold uppercase text-sm mb-2">Materials</span>
             <div className="mb-2">
                 <span className="block mb-2 font-bold text-sm">Seats:</span>
