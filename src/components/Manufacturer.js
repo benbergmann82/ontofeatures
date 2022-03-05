@@ -5,7 +5,7 @@ import { removeManufacturer, addManufacturer } from '../actions';
 const Manufacturer = () => {
     const filter = useSelector(state => state.filter);
     const dispatch = useDispatch();
-    const allManufacturers = ["Audi", "Citroen", "Citroen DS3", "Hyundai", "Jaguar", "Peugeot", "Renault", "Tesla", "Volkswagen"];
+    const allManufacturers = ["Audi", "Citroen", "Citroen DS3", "Hyundai", "Jaguar", "Peugeot", "Renault", "Tesla", "Vauxhall", "Volkswagen"];
 
     const toggleMake = (e) => {
         if(e.target.checked) {
