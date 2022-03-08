@@ -1707,5 +1707,86 @@
       "Connector": ["Type 2", "CCS"]
     }
   }
+},
+{
+  "id": 22,
+  "can_be_ordered": true,
+  "make": "Vauxhall",
+  "name": "Mokka-e Elite Premium",
+  "capacity": 50,
+  "price": 579,
+  "range": 160,
+  "speed": 9.2,
+  "power": 100,
+  "torque": 192,
+  "battery": 50,
+  "drive": "front",
+  "max_charging_speed": 100,
+  "image": "MokkaE_1.jpg",
+  "features": {
+    "lights": {
+      "LED Front Lights": true,
+      "LED Rear Lights": true,
+      "LED Daytime Running Lights": true
+    },
+    "exterior": {
+      "Roof Box Possible": true
+    },
+    "interior": {
+      "Seat Material": ["Cloth", "Synthetic Leather"],
+      "Steering Wheel": ["Leather"],
+      "Heated Steering Wheel": true,
+      "Electric Windows Front": true,
+      "Electric Windows Rear": true,
+      "Driver Armrest": true,
+      "Passenger Armrest": false,
+      "Centre Console Storage": true,
+      "Seat Height Adjustment Driver": true,
+      "Seat Height Adjustment Passenger": true,
+      "Split-folding Rear Seats": true,
+      "Isofix": true,
+      "Air Conditioning": "Electronic Climate Control",
+      "Welcome Light": false,
+      "Anti-theft Alarm": true,
+      "Electric Foldable Mirrors": true,
+      "Heated Seats": true,
+      "Keyless Entry": true,
+      "Sunroof": false,
+      "Panoramic Glass Roof": false
+    },
+    "connectivity": {
+      "DAB Radio": true,
+      "Built-in Satnav": true,
+      "Phone App": true,
+      "Wireless Phone Charger": false,
+      "USB Ports": true,
+      "Emergency Call System": true,
+      "Android Auto": true,
+      "Apple CarPlay": true
+    },
+    "driver_assist": {
+      "Automatic Wipers": true,
+      "Automatic Emergency Braking": true,
+      "Tyre Pressure Monitor": true,
+      "Cruise Control": true,
+      "Adaptive Cruise Control": true,
+      "Lane Keep Assist": true,
+      "Lane Follow Assist": false,
+      "Parking Sensors Front": true,
+      "Parking Sensors Rear": true,
+      "Rearview Camera": true,
+      "Blind Spot Monitoring": true,
+      "Auto-dimming Rearview Mirror": true
+    },
+    "wheels": {
+      "Size": "17 Inches",
+      "Alloy Wheels": "Bi-Colour Diamond-Cut Alloys"
+    },
+    "charging": {
+      "Useable Battery": "45 kWh",
+      "Max Charging Speed": "100 kW",
+      "Connector": ["Type 2", "CCS"]
+    }
+  }
 }
 ]
